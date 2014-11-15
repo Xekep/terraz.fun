@@ -36,7 +36,7 @@ comments: false
                         {
                         	//var array = $.parseJSON(data);
                         	for (var i = 0; i < res.Users.length; i++) {
-                        		data.addRows([[res.Users[i].Name, res.Users[i].Count]]);
+                        		data.addRows([['res.Users[i].Name', 1]]);
                         	}
 	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
 	                        //$('.progressbar_meter').css('width',data.maxplayers/100*data.playercount);
