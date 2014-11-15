@@ -34,8 +34,8 @@ comments: false
                 success: function(res) {
                         if (res.offline != 1)
                         {
-                        	//var array = $.parseJSON(data);
-                        	for (var i = 0; i < res.Users.length; i++) {
+                        	var arr = $.parseJSON(res.Users);
+                        	for (var i = 0; i < arr.length; i++) {
                         		data.addRows([['res.Users[i].Name', 1]]);
                         	}
 	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
