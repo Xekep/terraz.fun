@@ -18,43 +18,42 @@
 			</ul>
 		</li>
 		<li>
-			<a href="#">About</a>
+			<a href="#">Контакты</a>
 			<ul class="dl-submenu">
 				<li>
-					<img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
-					<h4>{{ site.owner.name }}</h4>
-					<p>{{ site.owner.bio }}</p>
+					<img src="{{ site.contact.avatar }}" alt="Avarar" class="author-photo">
+					<h4>Контакты</h4>
+					<p>{{ site.contact.text }}</p>
 				</li>
-				<li><a href="{{ site.url }}/about/">Learn More</a></li>
-				{% if site.owner.email %}<li>
-					<a href="mailto:{{ site.owner.email }}"><i class="fa fa-envelope"></i> Email</a>
+				{% if site.contact.email %}<li>
+					<a href="mailto:{{ site.contact.email }}"><i class="fa fa-envelope"></i> Email</a>
 				</li>{% endif %}
-				{% if site.owner.twitter %}<li>
-					<a href="http://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-twitter"></i> Twitter</a>
+				{% if site.contact.twitter %}<li>
+					<a href="http://twitter.com/{{ site.contact.twitter }}"><i class="fa fa-twitter"></i> Twitter</a>
 				</li>{% endif %}
-				{% if site.owner.facebook %}<li>
-					<a href="http://facebook.com/{{ site.owner.facebook }}"><i class="fa fa-facebook"></i> Facebook</a>
+				{% if site.contact.facebook %}<li>
+					<a href="http://facebook.com/{{ site.contact.facebook }}"><i class="fa fa-facebook"></i> Facebook</a>
 				</li>{% endif %}
-				{% if site.owner.google_plus %}<li>
-					<a href="https://google.com/{{ site.owner.google_plus }}"><i class="fa fa-google-plus"></i> Google+</a>
+				{% if site.contact.google_plus %}<li>
+					<a href="https://google.com/{{ site.contact.google_plus }}"><i class="fa fa-google-plus"></i> Google+</a>
 				</li>{% endif %}
-				{% if site.owner.linkedin %}<li>
-					<a href="http://linkedin.com/in/{{ site.owner.linkedin }}"><i class="fa fa-linkedin"></i> LinkedIn</a>
+				{% if site.contact.linkedin %}<li>
+					<a href="http://linkedin.com/in/{{ site.contact.linkedin }}"><i class="fa fa-linkedin"></i> LinkedIn</a>
 				</li>{% endif %}
-				{% if site.owner.github %}<li>
-					<a href="http://github.com/{{ site.owner.github }}"><i class="fa fa-github"></i> GitHub</a>
+				{% if site.contact.github %}<li>
+					<a href="http://github.com/{{ site.contact.github }}"><i class="fa fa-github"></i> GitHub</a>
 				</li>{% endif %}
-				{% if site.owner.stackexchange %}<li>
-					<a href="{{ site.owner.stackexchange }}"><i class="fa fa-stack-exchange"></i> Stackexchange</a>
+				{% if site.contact.stackexchange %}<li>
+					<a href="{{ site.contact.stackexchange }}"><i class="fa fa-stack-exchange"></i> Stackexchange</a>
 				</li>{% endif %}
-				{% if site.owner.instagram %}<li>
-					<a href="http://instagram.com/{{ site.owner.instagram }}"><i class="fa fa-instagram"></i> Instagram</a>
+				{% if site.contact.instagram %}<li>
+					<a href="http://instagram.com/{{ site.contact.instagram }}"><i class="fa fa-instagram"></i> Instagram</a>
 				</li>{% endif %}
-				{% if site.owner.flickr %}<li>
-					<a href="http://www.flickr.com/photos/{{ site.owner.flickr }}"><i class="fa fa-flickr"></i> Flickr</a>
+				{% if site.contact.flickr %}<li>
+					<a href="http://www.flickr.com/photos/{{ site.contact.flickr }}"><i class="fa fa-flickr"></i> Flickr</a>
 				</li>{% endif %}
-				{% if site.owner.tumblr %}<li>
-					<a href="http://{{ site.owner.tumblr }}.tumblr.com"><i class="fa fa-tumblr"></i> Tumblr</a>
+				{% if site.contact.tumblr %}<li>
+					<a href="http://{{ site.contact.tumblr }}.tumblr.com"><i class="fa fa-tumblr"></i> Tumblr</a>
 				</li>{% endif %}
 			</ul><!-- /.dl-submenu -->
 		</li>
