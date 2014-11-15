@@ -34,7 +34,7 @@ comments: false
                 success: function(res) {
                         if (res.offline != 1)
                         {
-                        	alert(res);
+                        	alert(res.Users.length);
                         	//var arr = $.parseJSON(res.Users);
                         	//for (var i = 0; i < arr.length; i++) {
                         	//	data.addRows([['res.Users[i].Name', 1]]);
