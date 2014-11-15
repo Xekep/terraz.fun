@@ -1,7 +1,7 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Карта
+  url: http://map.terraz.ru
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Наш лаунчер
+  url: http://launcher.terraz.ru
