@@ -41,9 +41,6 @@ comments: false
 	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
 	                        //$('.progressbar_meter').css('width',data.maxplayers/100*data.playercount);
                         }
-                        var pm = ProgressBarManager('progressbar_meter',true)
-                        pm.SetStaticText('non_static_percent',false)
-                        pm.Live()
                 },
         });	
 
