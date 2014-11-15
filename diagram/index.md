@@ -34,10 +34,11 @@ comments: false
                 success: function(res) {
                         if (res.offline != 1)
                         {
-                        	var arr = $.parseJSON(res.Users);
-                        	for (var i = 0; i < arr.length; i++) {
-                        		data.addRows([['res.Users[i].Name', 1]]);
-                        	}
+                        	alert(res);
+                        	//var arr = $.parseJSON(res.Users);
+                        	//for (var i = 0; i < arr.length; i++) {
+                        	//	data.addRows([['res.Users[i].Name', 1]]);
+                        //	}
 	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
 	                        //$('.progressbar_meter').css('width',data.maxplayers/100*data.playercount);
                         }
