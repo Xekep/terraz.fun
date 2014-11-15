@@ -33,14 +33,16 @@ comments: false
                                 var data = new google.visualization.DataTable();
                                 data.addColumn('string', 'Topping');
                                 data.addColumn('number', 'Slices');
+                                var count = 0;
 
-                        	for (var i = 0; i < res.Users.length; i++) {
-                        		data.addRows([[decodeURIComponent(res.Users[i].Name), res.Users[i].Count]]);
-                        	}
+                                for (var i = 0; i < res.Users.length; i++) {
+                                        data.addRows([[decodeURIComponent(res.Users[i].Name), res.Users[i].Count]]);
+                                        count += res.Users[i].Count;
+                                }
 
-                                if (res.Users.length<res.Count)
+                                if (count<res.Count)
                                 {
-                                       data.addRows([['Суперадминистраторы', res.Count - res.Users.length]]); 
+                                       data.addRows([['Супер администраторы', res.Count - count]]); 
                                 }
 
                                 // Set chart options
