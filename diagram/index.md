@@ -10,8 +10,8 @@ comments: false
 
 Одним из критериев по которым мы оцениваем активность привилегированных игроков является количество установленных протектов.
 {% raw %}
-    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-    <script type="text/javascript">
+    <script src="http://www.google.com/jsapi"></script>
+    <script>
       // Load the Visualization API and the piechart package.
       google.load('visualization', '1.0', {'packages':['corechart']});
 
