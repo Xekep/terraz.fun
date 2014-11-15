@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Команды сервера
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -8,24 +8,207 @@ image:
 comments: false
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+####Гости (guest)
+/help — посмотреть все доступные команды
 
-## What HPSTR brings to the table:
+/register [password] — зарегистрироваться
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+/login [password] — залогиниться
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
+####Зарегистрированные пользователи (default)
+/password  [старый пароль] [новый пароль] — сменить пароль
 
-[^1]: Example: *domain.com/category-name/post-title*
+/warp [имя варпа] — телепорт в точку на карте
+
+/warp list — список всех варпов
+
+/bunny — призвать ручного кролика
+
+    Сундуки:
+
+/cset — заприватить сундук на себя
+
+/cunset — расприватить сундук
+
+/crset -заприватить сундук на всех, кто может строить в регионе
+
+/cpset — делает сундук доступным всем
+
+
+####VIP (vip)
+  — тоже, что у зарегистрированного пользователя, плюс:
+
+/i [ид предмета] [количество] — выдает предмет по айди
+
+http://terraz.ru/ids.html  — список айди всех предметов
+
+/w [ник игрока] [текст сообщения] — написать приватное сообщение
+
+/grow [tree,epictree,mushroom,cactus,herb]- вырастить деревья,гриб,кактус,траву
+
+/history -показывает историю изменения блоков
+
+/buff [ид баффа] [время] — дать себе бафф
+
+http://terraz.ru/id-baffov.html —  список всех баффов
+
+/heal — восстановить себе здоровье
+
+/heal [ник игрока] — восстановить здоровье другому игроку
+
+/tp [ник игрока] — телепорт к игроку
+
+/crefill -бесконечный сундук
+
+####Helper (help)
+тоже, что у зарегистрированного пользователя, плюс:
+
+/i [ид предмета] [количество] — выдает предмет по айди
+
+http://terraz.ru/ids.html  — список айди всех предметов
+
+/w [ник игрока] [текст сообщения] — написать приватное сообщение
+
+/grow [tree,epictree,mushroom,cactus,herb]- вырастить деревья,гриб,кактус,траву
+
+/history -показывает историю изменения блоков
+
+/buff [ид баффа] [время] — дать себе бафф
+
+http://terraz.ru/id-baffov.html —  список всех баффов
+
+/heal — восстановить здоровье себе
+
+/heal [ник игрока] — восстановить здоровье другому игроку
+
+/tp [ник игрока] — телепорт к игроку
+
+/gbuff [ник игрока] [ид баффа] [время] — дает бафф другому игроку
+
+/kill [ник игрока] — убить игрока
+
+/kick [ник игрока] — кикнуть игрока
+
+/mute(/unmute)  [ник игрока] — Заткнуть игрока
+
+ 
+
+
+####ADMIN (newadmin)
+  — имеют иммунитет к кику и бану
+
+  — команды те же, что у Helper , плюс:
+
+/time [night,noon] — изменить время суток на день,ночь
+
+/clear — убрать лут
+
+/tphere — телепорт игрока к себе
+
+       Приват территории:
+
+/region name — узнать имя региона
+
+/region set1 — первая точка региона
+
+/region set2 — вторая точка региона
+
+/region define [имя региона] — создать регион
+
+/region allow [ник игрока] [имя региона] — вписать игрока в регион
+
+/region delete [имя региона] — удалить регион
+
+/region remove [ник игрока] [регион] — удалить игрока из региона
+
+http://terraz.ru/zashhita-postroek.html  — подробнее о привате
+
+     Спавн мобов
+
+/sm [ид моба] [количество] — спавн мобов
+
+http://terraz.ru/id-mobov.html  — айди мобов
+
+В мире одновременно может находиться не более, чем 200 простых мобов (слизни, скелеты, демоны вуду, акулы и тд)
+Не более, чем 50 клаз Ктулху, скелетронов, кингов, пожирателей миров
+Не более 1 прайма, близнецов, разрушителя
+Не более 1 хардкора.
+
+####ST.ADMIN (admin)
+  — тоже, что у ADMIN, плюс:
+
+  — возможность редактировать спавн, редактировать все сундуки, возможность селить НПС, возможность призывать снежный легион
+
+/warp [add,del,hide] [имя варпа] — варп добавить, удалить, скрыть
+
+/warp send [игрок] [варп] — отослать игрока к варпу
+
+/ban add [ник игрока] [причина бана] — бан игрока по нику
+
+/ban del [ник игрока] — снять бан с игрока
+
+/ban addip [ип игрока] [причина] — бан игрока по айпи
+
+/ban delip [ип игрока] — снять бан с игрока
+
+/star — вызывает падающую звезду
+
+/fullmoon — полнолуние
+
+/bloodmoon — кровавая луна
+
+/invade — нашествие гоблинов
+
+/butcher false — убить всех враждебных мобов
+
+/eater [количество] — спавнит пожирателя миров
+
+/eye [количество] — спавнит глаз Ктулху
+
+/skeletron [количество] — спавнит скелетрона
+
+/king [количество] — спавнит короля слизней
+
+/wof или /wallofflesh  — спавнит стену плоти
+
+/twins — спавнит близнецов
+
+/destroyer — спавнит разрушителя
+
+/prime  — спавнит скелетрона Прайма
+
+/hardcore — спавнит всех боссов сразу
+
+ 
+
+####GL.ADMIN (trustedadmin)
+  — тоже, что у ST.ADMIN, плюс:
+
+  — игнор детектора урона и вставки/удаления большого количества тайлов
+
+  — возможность видеть айди игроков, возможность использовать мод WorldEdit
+
+/ui [ник игрока, ид игрока] — показывает информацию о игроке
+
+/tpallow — разрешает, запрещает телепорт к себе
+
+Команды конфигурации сервера:
+
+/setspawn — устанавливает спавн
+
+/reload — перегружает конфигурацию сервера
+
+/serverpassword [пароль]- ставит пароль на сервер
+
+/save — сохраняет мир
+
+/spawnrate — индекс спавна мобов
+
+/broadcast(/bc /say) — сказать от имени сервера
+
+/stats — статистика
+
+/world — имя и ид мира
+
+####GL.ADMIN (superadmin)
+Безграничная власть =)
