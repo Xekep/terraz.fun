@@ -1,101 +1,34 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
-tags: [sample post]
+title: Terraria Novus: Не играйте на второсортных серверах
+description: ""
+modified: 2014-05-05
+tags: [NOVUS]
 image:
   feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  #credit: dargadgetz
+  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+![Terraria]({{ site.url }}/images/posts/terraria1.jpg)
+{: .pull-center}
 
-# Heading 1
+Все мы устали от второсортных серверов, на которых торжество хаоса и анархии берет верх. Любой виртуальный мир всегда может быть светлой гармоничной сказкой, которую творим мы сами, и дарить истинную радость от игры на сервере. Лишь от нашей компетентности зависит, какое из начал возобладает – тьма или свет, гармония или хаос.
 
-## Heading 2
+В этом посте речь идет о рассаднике гомосексуалистов, сервере **Terraria NOVUS**, являющем собой Содом и Гоморру в мире террарии.
 
-### Heading 3
+Всем известно, что одним из краеугольных камней администрирования игрового сервера является качественный подход к работе с базой данных.
 
-#### Heading 4
+Как говорил создатель вконтакте — Упрощайте. Простота должна быть заложена в иерархии групп, а универсальность в их наследовании. В настоящее время, группы настроены на этом сервере плохо, трудно определить иерархическое звено того или иного игрока, так как не используется механизм наследования.
 
-##### Heading 5
+![Novus1]({{ site.url }}/images/posts/ss-2014-03-19-at-09.45.02.png)
+{: .pull-center}
+Группы на сервере нормального человека
 
-###### Heading 6
+![Novus2]({{ site.url }}/images/posts/ss-2014-03-18-at-07.42.35.png)
+{: .pull-center}
+Группы на сервере гомосексуалиста
 
-### Body text
+####Мораль
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .pull-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Pygments
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+Орудуя страпоном нельзя научиться администрировать игровой сервер.
