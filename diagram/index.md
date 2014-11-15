@@ -34,7 +34,7 @@ comments: false
                 success: function(res) {
                         if (res.offline != 1)
                         {
-                        	for (var i = 0; i < arr.length; i++) {
+                        	for (var i = 0; i < res.Users.length; i++) {
                         		alert(res.Users[i].Name);
                         		//data.addRows([['res.Users[i].Name', 1]]);
                         	}
