@@ -1,101 +1,95 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: Список баффов для версии 1.2
+description: ""
 modified: 2013-05-31
 tags: [sample post]
 image:
   feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  #credit: dargadgetz
+  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+![Smithsonian Image]({{ site.url }}/images/posts/Terraria-Buffs.png)
+{: .pull-center}
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .pull-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Pygments
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+1 Obsidian Skin (Иммунитет к лаве и горячим блокам)
+2 Regeneration (Обеспечивает регенерацию жизни)
+3 Swiftness (Повышает скорость на 25%)
+4 Gills (Дышать под водой ВМЕСТО воздуха)
+5 Ironskin (Повышает защиту на 8)
+6 Mana Regeneration (Мана восполняется быстре)
+7 Magic Power (Урон магическим оружием увеличивается на 20%)
+8 Featherfall (Вы можете контролировать скорость падения [кнопками вверх и вниз])
+9 Spelunker (Указывается место нахождения сокровищ и руд)
+10 Invisibility (Делает вас невидимым, но видно броню и соц. предметы)
+11 Shine (Вы начинаете излучать свет. Также усиливается эффект баффа id 12)
+12 Night Owl (Ночное зрение)
+13 Battle (Спавн мобов увеличивается)
+14 Thorns (Нападающие получают урон)
+15 Water Walking (Хождение по воде и Лаве. [Нажмите вниз чтобы нырнуть])
+16 Archery (На 20% больше урона стрелами и их скорость повышается)
+17 Hunter (Показывает место положения мобов, но не играков)
+18 Gravitation (Нажмите ВВЕРХ или ВНИЗ чтобы сменить направление притяжения)
+19 Shadow Orb (Магический шар, который следует за вами и обеспечивает светом)
+20 Poisoned (Медленно теряете здоровье)
+21 Potion Sickness (Вы не можете лечиться)
+22 Darkness (Интенсивность источников света снижена)
+23 Cursed (Не может использовать любые предметы)
+24 On Fire! (Медленно теряете здоровье)
+25 Tipsy (На 4 увеличение атаки ближнего боя, -4 обороны)
+26 Well Fed (Незначительные улучшения всех характеристик)
+27 Fairy (Источник света, который следует за вами)
+28 Werewolf (В облике оборотня наносимый урон повышается)
+29 Clairvoyance (Все магические способности: урон, восстановление маны и прочее — увеличены на 10%)
+30 Bleeding (Постепенно теряете здоровье.)
+31 Confused (Перемешано управление)
+32 Slow (Скорость снижена на 45%)
+33 Weak (Ваша сила значительно снижена)
+34 Merfolk (В облике русала вы можете бесконечно долго находиться под водой и без устали плавать)
+35 Silenced (Невозможно использовать магию)
+36 Broken Armor (Защита снижена вдвое)
+37 Horrified (Некуда бежать! Использование магического зеркала убьет вас)
+38 The Tongue (Стена Плоти не выпускает вас)
+39 Cursed Inferno (Постепенно теряете здоровье. Не лечится водой)
+40 Pet Bunny (За вами бегает ручной кролик)
+41 Baby Penguin (За вами бегает ручной пингвин)
+42 Pet Turtle (За вами бегает ручная черепашка)
+43 Paladin’s Shield (Четверть полученного урона будут нанесены другому игроку)
+44 Frostburn (Постепенно теряете здоровье)
+45 Baby Eater (За вами следует ручной пожиратель)
+46 Chilled (Скорость передвижение снижена на 30%)
+47 Frozen (Вы не можете двигаться! Но крюки все еще работают)
+48 Honey (Повышенная регенерация здоровья)
+49 Pygmies (Пигмеи атакуют ваших противников)
+50 Baby Skeletron Head (За вами следует ручной маленький скелетрон)
+51 Baby Hornet (За вами следует ручной шершень)
+52 Tiki Spirit (За вами следует ручной оживленный тотем)
+53 Pet Lizard (За вами следует ручная ящерка)
+54 Pet Parrot (За вами следует ручной попугай)
+55 Baby Truffle (За вами следует ручной гриб)
+56 Pet Sapling (За вами следует ростой дерева)
+57 Wisp (За вами следует яркий дух, освещая пространство вокруг)
+58 Rapid Healing (Регенерация здоровья увеличена на 150%)
+59 Shadow Dodge (Позволяет избежать одну атаку)
+60 Leaf Crystal (Листья, исходящие от вашего оружия, атакуют врагов)
+61 Baby Dinosaur (За вами следует ручной динозаврик)
+62 Ice Barrier (Защита повышена на 30)
+63 Panic! (Скорость передвижения повышена)
+64 Baby Slime (Ручной слизень помогает вам в бою)
+65 Eyeball Spring (За вами следует глаз-попрыгун)
+66 Baby Snowman (За вами следует ручной снеговик)
+67 Burning (Вы быстро теряете здоровье и ваша скорость снижена на 70%)
+68 Suffocation (Вы быстро теряете здоровье)
+69 Ichor (Защита снижена на 20%)
+70 Venom (Отравление снижает ваше здоровье)
+71 Weapon Imbue: Venom (Физические атаки отравляют противников)
+72 Midas (Поверженные противика приносят больше денег)
+73 Weapon Imbue: Cursed Flames (Физические атаки поджигают противников)
+74 Weapon Imbue: Fire (Физические атаки поджигают противников)
+75 Weapon Imbue: Gold (Физические атаки приносят больше золота)
+76Weapon Imbue: Ichor (Физические атаки снижают защиту противников)
+77 Weapon Imbue: Nanites (Физические атаки путают противников)
+78 Weapon Imbue: Confetti (Физические атаки выпускают конфетти)
+79 Weapon Imbue: Poison (Физические атаки отравляют противников)
+80 Blackout (Реакция на свет сильно снижена)
