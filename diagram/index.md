@@ -27,8 +27,8 @@ comments: false
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
         
-        data.addRows(['321', 1]);
-        data.addRows(['123', 1]);
+        data.addRows([['321', 1]]);
+        data.addRows([['123', 1]]);
 /*
         data.addRows([
 		['/dev/null6', 1],
