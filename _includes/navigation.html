@@ -9,7 +9,7 @@
 	        {% assign domain = site.url %}
 	    {% endif %}
 	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-	  {% endfor %}
+	    {% endfor %}
 		<li>
 			<a href="#">Записи блога</a>
 			<ul class="dl-submenu">
@@ -21,7 +21,7 @@
 			<a href="#">About</a>
 			<ul class="dl-submenu">
 				<li>
-					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
+					<img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
 					<h4>{{ site.owner.name }}</h4>
 					<p>{{ site.owner.bio }}</p>
 				</li>
