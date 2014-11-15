@@ -7,11 +7,10 @@ words_per_minute: 200
 # When testing locally leave blank or use http://localhost:4000
 url: http://xekep.github.io
 
-# Owner/author information
-owner:
-  name:           Xekep
+# contact information
+contact:
   avatar:         https://github.com/Xekep.png
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  text:            "для связи с нами используйте e-mail"
   email:          xekep@terraz.ru
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
