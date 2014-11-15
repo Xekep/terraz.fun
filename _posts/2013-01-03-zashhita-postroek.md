@@ -2,15 +2,15 @@
 layout: post
 title: Защита построек
 description: ""
-modified: 2013-05-31
-tags: [sample post]
+modified: 2013-01-03
+tags: [сервер]
 image:
   feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  #credit: dargadgetz
+  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-![Privat Image]({{ site.url }}/images/posts/privat.jpg)
+![privat]({{ site.url }}/images/posts/privat.jpg)
 {: .pull-center}
 
 Для защиты построек пользователь, со статусом **Admin**, должен посредством команды "/region" создать регион.
