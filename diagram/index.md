@@ -35,7 +35,7 @@ comments: false
                         if (res.offline != 1)
                         {
                         	for (var i = 0; i < arr.length; i++) {
-                        		alert(res.Users.Name[i]);
+                        		alert(res.Users[i].Name);
                         		//data.addRows([['res.Users[i].Name', 1]]);
                         	}
 	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
