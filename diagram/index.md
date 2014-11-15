@@ -29,25 +29,30 @@ comments: false
                 success: function(res) {
                         if (res.offline != 1)
                         {
-        // Create the data table.
-        var data = new google.visualization.DataTable();
-        data.addColumn('string', 'Topping');
-        data.addColumn('number', 'Slices');
-        
+                                // Create the data table.
+                                var data = new google.visualization.DataTable();
+                                data.addColumn('string', 'Topping');
+                                data.addColumn('number', 'Slices');
+
                         	for (var i = 0; i < res.Users.length; i++) {
                         		data.addRows([[decodeURIComponent(res.Users[i].Name), res.Users[i].Count]]);
                         	}
-        // Set chart options
-        var options = {is3D: true,
-                       backgroundColor: 'transparent',
-                       'title':'Диаграмма протектов',
-                       'width':700,
-                       'height':600};
 
-        // Instantiate and draw our chart, passing in some options.
-        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-        chart.draw(data, options);
+                                if (res.Users.length<res.Count)
+                                {
+                                       data.addRows([['Суперадминистраторы', res.Count - res.Users.length]]); 
+                                }
 
+                                // Set chart options
+                                var options = {is3D: true,
+                                        backgroundColor: 'transparent',
+                                        'title':'Диаграмма протектов',
+                                        'width':700,
+                                        'height':600};
+
+                                // Instantiate and draw our chart, passing in some options.
+                                var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+                                chart.draw(data, options);
                         }
                 },
         });
