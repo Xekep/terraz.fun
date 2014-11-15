@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Правила конференции
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -8,24 +8,38 @@ image:
 comments: false
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+###Правила общения участников чат-конференции в skype
 
-## What HPSTR brings to the table:
+В нашей чат-конференции принят вежливый и доброжелательный стиль общения, краеугольным камнем которого является субординация и уважение. Если вы не готовы уважать мнение собеседника – лучше не высказывайтесь.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+Данные правила действуют для всех игроков и любого открытого способа общения на сервере.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
 
-[^1]: Example: *domain.com/category-name/post-title*
+####1. Стиль общения.
+
+Запрещены:
+
+* оскорбления;
+* расистские высказывания;
+* угрозы в адрес любого участника конференции;
+* нецензурные выражения;
+* намеренное искажение литературного русского языка или употребление фени.
+
+Не приветствуются:
+
+* флуд (размещение бессмысленных сообщений);
+* флейм (превращение дискуссии в перебранку);
+* троллинг (размещение провокационных сообщений с целью вызвать флейм, конфликты, оскорбления).
+
+Конференция не предназначена для личных разборок, ругани, матерной лексики, а также флуда.
+
+
+####2. Запретные темы.
+
+Запрещается обсуждение вопросов, связанных с наркотиками, сексом, курением, алкоголизмом и насилием.
+
+
+####3. Ответственность.
+
+Первое нарушение – сообщения удаляются, автору выносится предупреждение.
+Повторное нарушение – сообщения удаляются, автор подлежит немедленному удалению из конференции без каких-либо предупреждений.
