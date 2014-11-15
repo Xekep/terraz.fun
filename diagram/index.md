@@ -26,9 +26,27 @@ comments: false
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
-        
-        data.addRows([['321', 1]]);
-        data.addRows([['123', 1]]);
+
+        $.ajax({
+                type : "GET",
+                url : "http://sc.terraz.ru/regions.php?callback=?",
+                dataType: "jsonp",
+                success: function(data) {
+                        if (data.offline!=1)
+                        {
+                        	//var array = $.parseJSON(data);
+                        	for (var i = 0; i < data.Users.length; i++) {
+                        		data.addRows([[data.Users[i].Name, data.Users[i].Count]]);
+                        	}
+	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
+	                        //$('.progressbar_meter').css('width',data.maxplayers/100*data.playercount);
+                        }
+                        var pm = ProgressBarManager('progressbar_meter',true)
+                        pm.SetStaticText('non_static_percent',false)
+                        pm.Live()
+                },
+        });	
+
 /*
         data.addRows([
 		['/dev/null6', 1],
