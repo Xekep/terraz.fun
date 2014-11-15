@@ -26,6 +26,10 @@ comments: false
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
+        
+        data.addRows(['321', 1]);
+        data.addRows(['123', 1]);
+/*
         data.addRows([
 		['/dev/null6', 1],
 		['1ta41', 15],
@@ -51,7 +55,7 @@ comments: false
 		['Икс', 1],
 		['Супер администраторы', 42]
         ]);
-
+*/
         // Set chart options
         var options = {is3D: true,
                        backgroundColor: 'transparent',
