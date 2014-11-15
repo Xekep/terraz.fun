@@ -1,0 +1,20 @@
+- title: Статистика сервера
+  url: /statistics
+
+- title: Правила сервера
+  url: /rules
+
+- title: Правила конференции
+  url: /rulesfortheconference
+
+- title: Запрещенные предметы
+  url: /zapreshhennye-predmety
+
+- title: Администраторы
+  url: /admins
+
+- title: Диаграмма протектов
+  url: /diagram
+
+- title: /komandy-servera
+  url: /komandy-servera
