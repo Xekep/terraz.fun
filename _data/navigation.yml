@@ -5,3 +5,9 @@
 
 - title: Наш лаунчер
   url: http://launcher.terraz.ru
+
+- title: Купить VIP/ADMIN
+  url: {{ site.url }}/stat-vip
+
+- title: Скачать Terraria
+  url: {{ site.url }}/skachat-terraria
