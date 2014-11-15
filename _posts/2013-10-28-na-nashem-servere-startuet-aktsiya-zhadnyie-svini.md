@@ -1,101 +1,51 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
+title: На нашем сервере стартует акция «Жадные свиньи»
+description: ""
+modified: 2013-10-28
 tags: [sample post]
 image:
   feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  #credit: dargadgetz
+  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+![Smithsonian Image]({{ site.url }}/images/posts/piq_40946_400x400.png)
+{: .pull-center}
 
-# Heading 1
+Так уж сложилось, что читеры привыкли получать все «на халяву», но за халяву всегда приходится чем-то платить, и однажды им придется заплатить за все сполна.
 
-## Heading 2
+Суть акции состоит в пресечении свинского поведения читеров. За использование снаряжения разработчиков террарии, читер получает красивый префикс в чате — это небольшая цена которую заплатят читеры.
 
-### Heading 3
 
-#### Heading 4
+#####Список снаряжения
 
-##### Heading 5
+Item: 666 — Red’s Helmet<br/>
+Item: 667 — Red’s Breastplate<br/>
+Item: 668 — Red’s Leggings<br/>
 
-###### Heading 6
+Item: 1580 — D-Town’s Helmet<br/>
+Item: 1581 — D-Town’s Breastplate<br/>
+Item: 1582 — D-Town’s Leggings<br/>
 
-### Body text
+Item: 1557 — Crowno’s Mask<br/>
+Item: 1558 — Crowno’s Breastplate<br/>
+Item: 1559 — Crowno’s Leggings<br/>
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+Item: 1563 — Jim’s Helmet<br/>
+Item: 1564 — Jim’s Breastplate<br/>
+Item: 1565 — Jim’s Leggings<br/>
 
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .pull-right}
+Item: 1560 — Will’s Helmet<br/>
+Item: 1561 — Will’s Breastplate<br/>
+Item: 1562 — Will’s Leggings<br/>
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+Item: 1566 — Aaron’s Helmet<br/>
+Item: 1567 — Aaron’s Breastplate<br/>
+Item: 1568 — Aaron’s Leggings<br/>
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Pygments
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+Item: 1554 — Cenx’s Tiara<br/>
+Item: 1555 — Cenx’s Breastplate<br/>
+Item: 1556 — Cenx’s Leggings<br/>
+Item: 1587 — Cenx’s Dress<br/>
+Item: 1588 — Cenx’s Dress Pants
