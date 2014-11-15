@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terraria Novus: Не играйте на второсортных серверах
+title: "Terraria Novus: Не играйте на второсортных серверах"
 description: ""
 modified: 2014-05-05
 tags: [NOVUS]
