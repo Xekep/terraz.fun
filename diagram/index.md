@@ -22,11 +22,6 @@ comments: false
       // draws it.
       function drawChart() {
 
-        // Create the data table.
-        var data = new google.visualization.DataTable();
-        data.addColumn('string', 'Topping');
-        data.addColumn('number', 'Slices');
-
         $.ajax({
                 type : "GET",
                 url : "http://sc.terraz.ru/regions.php?callback=?",
@@ -34,42 +29,14 @@ comments: false
                 success: function(res) {
                         if (res.offline != 1)
                         {
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Slices');
+        
                         	for (var i = 0; i < res.Users.length; i++) {
-                        		data.addRows([[res.Users[i].Name, res.Users[i].Count]]);
+                        		data.addRows([[decodeURIComponent(res.Users[i].Name), res.Users[i].Count]]);
                         	}
-	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
-	                        //$('.progressbar_meter').css('width',data.maxplayers/100*data.playercount);
-                        }
-                },
-        });	
-
-/*
-        data.addRows([
-		['/dev/null6', 1],
-		['1ta41', 15],
-		['A.N.D.R.E.W', 3],
-		['Deez', 27],
-		['DotNas', 7],
-		['Lambo', 4],
-		['Leon', 4],
-		['Maf', 5],
-		['Midorima', 1],
-		['Mira', 10],
-		['Mr.Andre', 2],
-		['Pokerman', 1],
-		['Rico', 13],
-		['Serj Tankyano', 5],
-		['St.Art', 5],
-		['Tuk', 3],
-		['Vitya', 1],
-		['_Bl@ck_fOx_', 1],
-		['iks', 8],
-		['jTerror', 11],
-		['ЕжИК', 4],
-		['Икс', 1],
-		['Супер администраторы', 42]
-        ]);
-*/
         // Set chart options
         var options = {is3D: true,
                        backgroundColor: 'transparent',
@@ -80,6 +47,12 @@ comments: false
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
         chart.draw(data, options);
+
+                        }
+                },
+        });
+
+
       }
 </script>
 <center><div id="chart_div" style="background-color: transparent;"></div></center>
