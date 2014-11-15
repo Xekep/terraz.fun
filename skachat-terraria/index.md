@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Скачать Terraria 1.2.4.1
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -8,24 +8,27 @@ image:
 comments: false
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+На нашем сайте вы имеете возможность скачать полностью русифицированную версию игры Terraria 1.2.
+Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и при необходимости Вы можете установить их из папки с игрой.
 
-## What HPSTR brings to the table:
+<div markdown="0"><a href="http://yadi.sk/d/9H-TyeZaQU3og" class="btn btn-info">Скачать Terraria 1.2.4.1</a></div>
+<div markdown="0"><a href="https://cloud.mail.ru/public/43963f32975d%2FTerraria%201.2.4.1%20RUS.exe" class="btn btn-info">Скачать Terraria 1.2.4.1 RUS</a></div>
+<div markdown="0"><a href="http://yadi.sk/d/0IB6T08APr3fP" class="btn btn-info">Скачать русификатор чата</a></div>
+<div markdown="0"><a href="http://yadi.sk/d/SMmVxMXHPwinv" class="btn btn-info">Архив версий</a></div>
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+Авторы любительского русификатора Translators Team
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+* Teleporter — организатор проекта и C# программист
+* leha_bot — C# программист, оптимизация исходного кода
+* Alex_Great — главный переводчик
+* ArionWT — перерисовка логотипа
+* Samurai — создание кириллической версии оригинального шрифта + участие в переводе
+* ApmaTypa — сверхкачественный перевод и проверка текстов
+* strelokhalfer — качественный перевод и усердная работа
+* Rakapudl — качественный перевод
+* greengremlin — качественный перевод и проверка текстов
+* NonSemper — качественный перевод
+* Gerrus — исключительно качественный и точный перевод
+* SNSergey — качественный перевод и усердная работа
+* Lex_Liven — сверхкачественный перевод, проверка текстов, а также достижение консенсуса в сложных, труднопереводимых словах
+* WebMoney-счёт для пожертвований Translators Team: R311488339903
