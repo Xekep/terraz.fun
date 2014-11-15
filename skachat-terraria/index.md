@@ -12,10 +12,12 @@ comments: false
 
 Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и при необходимости Вы можете установить их из папки с игрой.
 
+
 <div markdown="0"><a href="http://yadi.sk/d/9H-TyeZaQU3og" class="btn btn-success">Terraria 1.2.4.1</a>
 <a href="https://cloud.mail.ru/public/43963f32975d%2FTerraria%201.2.4.1%20RUS.exe" class="btn btn-success">Terraria 1.2.4.1 RUS</a>
 <a href="http://yadi.sk/d/0IB6T08APr3fP" class="btn btn-success">Русификатор чата</a>
 <a href="http://yadi.sk/d/SMmVxMXHPwinv" class="btn btn-success">Архив версий</a></div>
+
 
 Авторы любительского русификатора Translators Team
 
