@@ -31,12 +31,12 @@ comments: false
                 type : "GET",
                 url : "http://sc.terraz.ru/regions.php?callback=?",
                 dataType: "jsonp",
-                success: function(data) {
-                        if (data.offline!=1)
+                success: function(res) {
+                        if (res.offline != 1)
                         {
                         	//var array = $.parseJSON(data);
-                        	for (var i = 0; i < data.Users.length; i++) {
-                        		data.addRows([[data.Users[i].Name, data.Users[i].Count]]);
+                        	for (var i = 0; i < res.Users.length; i++) {
+                        		data.addRows([[res.Users[i].Name, res.Users[i].Count]]);
                         	}
 	                        //$('.progressbar_meter').text(data.playercount + '/' + data.maxplayers);
 	                        //$('.progressbar_meter').css('width',data.maxplayers/100*data.playercount);
