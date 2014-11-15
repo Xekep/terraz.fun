@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Купить VIP/ADMIN
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -8,24 +8,44 @@ image:
 comments: false
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+###Возможности
+Пользователи, обладающие статусом VIP и Admin, на сервере TerraZ имеют право на перенос постройки после вайпа, доступ к клиенту для администраторов, резервный слот и доступ к следующим командам:
 
-## What HPSTR brings to the table:
+* [VIP пользователи (VIP)](/komandy-servera)
+* [Администраторы (Admin)](/komandy-servera)
+* [Старшие администраторы (St.Admin)](/komandy-servera)
+ 
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+После покупки статуса VIP или Admin вы обязаны ознакомиться со следующими правилами:
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
+* [Правила сервера](/rules)
+* [Правила общения участников чат-конференции](/rulesfortheconference)
+ 
 
-[^1]: Example: *domain.com/category-name/post-title*
+###Цены
+Для получения статуса необходимо делать ежемесячное небольшое пожертвование на поддержку и развитие сервера.
+
+* Статус Gl.Admin 600 руб.
+* Статус St.Admin 300 руб.
+* Статус Admin 100 руб.
+* Статус VIP 50 руб.
+
+Также вы можете заказать дополнительные услуги:
+
+Сменить цвет в чате 20 руб.
+Сменить префикс 30 руб.
+
+К оплате принимаем webmoney и яндекс деньги.
+
+Кошельки:
+
+webmoney  Рубли (Россия)  R381712344345
+webmoney Рубли (Белоруссия) B381250617445
+webmoney Гривны (Украина) U334462834901
+webmoney  EURO E171661776605
+webmoney  Dollar Z241563859952
+яндекс деньги   41001430156154
+
+При нарушении правил сервера, приобретенный статус снимается, без возврата денежных средств.
+
+За подробностями обращайтесь в скайп katya.tash1
