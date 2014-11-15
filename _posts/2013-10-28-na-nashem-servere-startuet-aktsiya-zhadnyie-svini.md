@@ -3,14 +3,14 @@ layout: post
 title: На нашем сервере стартует акция «Жадные свиньи»
 description: ""
 modified: 2013-10-28
-tags: [sample post]
+tags: [сервер]
 image:
   feature: abstract-3.jpg
   #credit: dargadgetz
   #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-![Smithsonian Image]({{ site.url }}/images/posts/piq_40946_400x400.png)
+![pig]({{ site.url }}/images/posts/piq_40946_400x400.png)
 {: .pull-center}
 
 Так уж сложилось, что читеры привыкли получать все «на халяву», но за халяву всегда приходится чем-то платить, и однажды им придется заплатить за все сполна.
