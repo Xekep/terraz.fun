@@ -9,7 +9,7 @@ comments: false
 ---
 
 <center>
-<iframe id="iframe1" src="http://terraria-servers.com/statistics/chart/daily/players/178/" height="300" width="700" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe id="iframe1" src="http://terraria-servers.com/statistics/chart/daily/players/178/" height="300" width="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-<iframe id="iframe2" src="http://terraria-servers.com/statistics/chart/daily/uptime/178/" height="300" width="700" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe id="iframe2" src="http://terraria-servers.com/statistics/chart/daily/uptime/178/" height="300" width="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </center>
