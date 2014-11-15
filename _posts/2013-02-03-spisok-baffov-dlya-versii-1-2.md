@@ -2,15 +2,15 @@
 layout: post
 title: Список баффов для версии 1.2
 description: ""
-modified: 2013-05-31
-tags: [sample post]
+modified: 2013-02-03
+tags: [сервер]
 image:
   feature: abstract-3.jpg
   #credit: dargadgetz
   #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-![Smithsonian Image]({{ site.url }}/images/posts/Terraria-Buffs.png)
+![Buffs]({{ site.url }}/images/posts/Terraria-Buffs.png)
 {: .pull-center}
 
 * 1 Obsidian Skin (Иммунитет к лаве и горячим блокам)
