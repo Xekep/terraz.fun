@@ -1,101 +1,42 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
-tags: [sample post]
+title: Система префиксов и цветов
+description: ""
+modified: 2014-04-12
+tags: [сервер]
 image:
   feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  #credit: dargadgetz
+  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Игроки! На сервере работает система смены префиксов в зависимости от вашего внешнего вида. Вкратце говоря, одеваете разные наборы вещей – получаете разные префиксы!
 
-# Heading 1
+Вот список предметов и соответствующих префиксов/цветов, который мы, админы, вам написали. Сначала написали название, затем префикс который вы получите, а затем ваш цвет в чате. Смотрим, читаем и запоминаем!
 
-## Heading 2
+Кроличий капюшон/Bunny Hood<br/>
+Префикс: BUNNY<br/>
+Цвет: небесно-голубой
 
-### Heading 3
+Солнечные очки/Sunglasses + Смокинг/Tuxedo Shirt + Штаны для смокинга/Tuxedo Pants<br/>
+Префикс: MAFIA<br/>
+Цвет: ярко-красный
 
-#### Heading 4
+Шляпа сантехника/Plumber’s Hat + Рубашка сантехника/Plumber’s Shirt + Штаны Сантехника/Plumber’s Pants<br/>
+Префикс: MARIO<br/>
+Цвет: сиреневый
 
-##### Heading 5
+Шапка Санты/Santa Hat + Куртка Санты/Santa Shirt + Штаны Санты/Santa Pants<br/>
+Префикс: Santa<br/>
+Цвет: красный
 
-###### Heading 6
+Капюшон нидзи/Ninja Hood + Кимоно ниндзи/Ninja Shirt + Штаны ниндзи/Ninja Pants<br/>
+Префикс: NINJA<br/>
+Цвет: сиреневый
 
-### Body text
+И еще один подарок от администрации! Полезнейшая команда для тех, у кого нет русификатора: /rus. Если у вас не стоит русификатор, и вместо букв вы видите одни звездочки ‘*’, то эта команда автоматически переведет сообщения в транслит! Попробуйте!
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+З.Ы.: Вы знали что можно ввести /bunny и бесплатно получить кролика? Нет? Теперь знаете!
 
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .pull-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Pygments
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+![prefix]({{ site.url }}/images/posts/prefix.jpg)
+{: .pull-center}
