@@ -7,6 +7,10 @@ words_per_minute: 200
 # When testing locally leave blank or use http://localhost:4000
 url: http://terraz.ru
 
+owner:
+  name: Xekep
+  page: http://жэка.рф
+
 # contact information
 contact:
   avatar:         https://github.com/Xekep.png
