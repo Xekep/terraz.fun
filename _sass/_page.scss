@@ -283,6 +283,16 @@ body {
 		@extend .btn;
 	}
 }
+.read-more-post {
+	position: absolute;
+	bottom: -20px;
+	left: 0;
+	right: 0;
+	height: 35px;
+	a {
+		@extend .btn;
+	}
+}
 .read-more-content {
 	@include font-size(16);
 	// Dotted line underlines for links
