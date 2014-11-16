@@ -32,6 +32,9 @@ image:
   <div class="entry-content">
     {% if post.content contains "<!-- more -->" %}
       {{ post.content | split:"<!-- more -->" | first % }}
+      <div class="read-more-post">
+        <a href="{{ site.url }}{{ post.url }}" class="read-more-btn">Читать далее</a>
+      </div>
     {% else %}
       {{ post.content }}
     {% endif %}
