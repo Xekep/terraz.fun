@@ -8,8 +8,8 @@ image:
 comments: false
 ---
 
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script>
+$(document).ready(function() {
   $.ajax({
       type: "GET",
       cache: false,
@@ -25,6 +25,7 @@ comments: false
            }
        }
    });
+});
 </script>
 <div id="adm_table">
 <!--<iframe id="iframe1" src="http://sc.terraz.ru/admins.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>-->
