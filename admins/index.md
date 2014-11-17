@@ -23,5 +23,5 @@ window.onload =  function() {
    });
 }
 </script>
-<div id="adm_table">
+<div id="adm_table" align="center">
 </div>
