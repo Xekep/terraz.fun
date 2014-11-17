@@ -9,5 +9,5 @@ comments: false
 ---
 
 <center>
-<iframe id="iframe1" src="http://sc.terraz.ru/admins.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes"></iframe>
+<iframe id="iframe1" src="http://sc.terraz.ru/admins.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </center>
