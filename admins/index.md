@@ -9,7 +9,7 @@ comments: false
 ---
 
 <script>
-$(document).ready(function() {
+window.onload =  function() {
   $.ajax({
       type: "GET",
       cache: false,
@@ -25,7 +25,7 @@ $(document).ready(function() {
            }
        }
    });
-});
+}
 </script>
 <div id="adm_table">
 <!--<iframe id="iframe1" src="http://sc.terraz.ru/admins.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>-->
