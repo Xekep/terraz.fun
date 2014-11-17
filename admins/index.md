@@ -8,6 +8,7 @@ image:
 comments: false
 ---
 
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script>
   $.ajax({
       type: "GET",
