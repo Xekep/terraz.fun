@@ -17,10 +17,7 @@ window.onload =  function() {
       url: "http://sc.terraz.ru/admins.php",
       success: function(data){
           if(data != ""){
-              var content = "<center>";
-              content += data;
-              content += "</center>";
-              $('#adm_table').append(content);
+              $('#adm_table').append(data);
            }
        }
    });
