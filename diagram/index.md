@@ -49,8 +49,7 @@ comments: false
                                 var options = {is3D: true,
                                         backgroundColor: 'transparent',
                                         'title':'Диаграмма протектов',
-                                        'width':700,
-                                        'height':700};
+                                        'height':600};
 
                                 // Instantiate and draw our chart, passing in some options.
                                 var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
