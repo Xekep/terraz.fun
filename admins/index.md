@@ -8,4 +8,6 @@ image:
 comments: false
 ---
 
-<center>{{ include http://sc.terraz.ru/admins.php}}</center>
+<center>
+<iframe id="iframe1" src="http://sc.terraz.ru/admins.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes"></iframe>
+</center>
