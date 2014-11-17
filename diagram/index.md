@@ -49,6 +49,7 @@ comments: false
                                 var options = {is3D: true,
                                         backgroundColor: 'transparent',
                                         'title':'Диаграмма протектов',
+                                        'width':300,
                                         'height':600};
 
                                 // Instantiate and draw our chart, passing in some options.
