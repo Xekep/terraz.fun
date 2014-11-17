@@ -1,6 +1,6 @@
 User-agent: Yandex
-Host: terraz.ru
+Host: test.terraz.ru
 
 User-agent: *
 
-Sitemap: http://terraz.ru/sitemap.xml
+Sitemap: http://test.terraz.ru/sitemap.xml
