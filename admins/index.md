@@ -17,7 +17,6 @@ window.onload =  function() {
       url: "http://sc.terraz.ru/admins.php",
       success: function(data){
           if(data != ""){
-              //$jQuery("body").html(data);
               var content = "<center>";
               content += data;
               content += "</center>";
@@ -28,5 +27,4 @@ window.onload =  function() {
 }
 </script>
 <div id="adm_table">
-<!--<iframe id="iframe1" src="http://sc.terraz.ru/admins.php" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>-->
 </div>
