@@ -27,4 +27,6 @@ window.onload =  function() {
 <MTMarkdownOptions output='html5'>**Супер администратор:** Ketrin :smile_cat:</MTMarkdownOptions>
 </center>
 
+-> and <-
+
 <div id="adm_table" align="center"></div>
