@@ -25,6 +25,6 @@ window.onload =  function() {
 </script>
 <div align="center" markdown="1">
 **Супер администратор:** Ketrin
-</div>:smile_cat:
+</div>:
 
 <div id="adm_table" align="center"></div>
