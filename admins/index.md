@@ -23,8 +23,7 @@ window.onload =  function() {
    });
 }
 </script>
-[]()<center>**Супер администратор:** Ketrin :smile_cat:</center>
 
--> and <-
+[]()<center>**Супер администратор:** Ketrin :smile_cat:</center>
 
 <div id="adm_table" align="center"></div>
