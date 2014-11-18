@@ -23,7 +23,6 @@ window.onload =  function() {
    });
 }
 </script>
-
-[<center>**Супер администратор:** Ketrin :smile_cat:</center>]
+<div align="center" markdown="1">**Супер администратор:** Ketrin :smile_cat:</div>
 
 <div id="adm_table" align="center"></div>
