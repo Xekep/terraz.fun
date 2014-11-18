@@ -4,6 +4,7 @@ title: Защита построек
 description: ""
 modified: 2013-01-03
 tags: [сервер]
+comments: false
 image:
   feature: abstract-3.jpg
   #credit: dargadgetz
