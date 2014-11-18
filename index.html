@@ -23,7 +23,7 @@ image:
       </span><!-- /.entry-reading-time -->
       {% endif %}
       <span class="pull-right">
-        <i class="fa fa-comments"></i> <a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-url="{{ site.url }}{{ post.url }}"></a>
+        <i class="fa fa-comments"></i> {% if page.comments != false %}<a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-url="{{ site.url }}{{ post.url }}"></a>{% else %}Нет комментариев{% endif %}
       </span>
     </div><!-- /.entry-meta -->
     {% if post.link %}
