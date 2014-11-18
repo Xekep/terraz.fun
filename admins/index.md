@@ -23,7 +23,6 @@ window.onload =  function() {
    });
 }
 </script>
-
--> **Супер администратор:** Ketrin :smile_cat: <-
+<center><MTMarkdownOptions output='html5'>**Супер администратор:** Ketrin :smile_cat:</MTMarkdownOptions'></center>
 
 <div id="adm_table" align="center"></div>
