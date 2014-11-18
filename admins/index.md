@@ -23,9 +23,7 @@ window.onload =  function() {
    });
 }
 </script>
-<center>
-<MTMarkdownOptions output='html5'>**Супер администратор:** Ketrin :smile_cat:</MTMarkdownOptions>
-</center>
+[]()<center>**Супер администратор:** Ketrin :smile_cat:</center>
 
 -> and <-
 
