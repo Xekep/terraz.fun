@@ -23,4 +23,5 @@ window.onload =  function() {
    });
 }
 </script>
+**Супер администратор:** Ketrin
 <div id="adm_table" align="center"></div>
