@@ -30,10 +30,8 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
-
 {% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
-
-{% if site.disqus_shortname & page.layout == 'post-index'%}
+{% if site.disqus_shortname & page.layout == 'post-index' %}
 <script type="text/javascript">
 	var disqus_shortname = '{{ site.disqus_shortname }}';
 
