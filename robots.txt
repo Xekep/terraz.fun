@@ -3,4 +3,4 @@ Host: test.terraz.ru
 
 User-agent: *
 
-Sitemap: http://test.terraz.ru/sitemap.xml
+Sitemap: http://fun.terraz.ru/sitemap.xml
