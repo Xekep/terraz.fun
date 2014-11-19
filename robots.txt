@@ -1,5 +1,5 @@
 User-agent: Yandex
-Host: test.terraz.ru
+Host: fun.terraz.ru
 
 User-agent: *
 
