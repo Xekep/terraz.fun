@@ -1,8 +1,9 @@
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
 <script>
-function  initOnline()
+function initOnline()
 {
+	alert('123');
     $.ajax({
         type : "GET",
         url : "http://sc.terraz.ru/online/status.php?callback=?",
