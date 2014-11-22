@@ -1,7 +1,25 @@
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
+<script>
+function  initOnline()
+{
+    $.ajax({
+        type : "GET",
+        url : "http://sc.terraz.ru/online/status.php?callback=?",
+        dataType: "jsonp",
+        success: function(data) {
+                    if (data.offline==1)
+                    {
+                        progress(0, $('#progressBar'));
+                    } else {
+                        progress((data.playercount/100)*data.maxplayers, $('#progressBar'));
+                    }
+                 },
+    });
+}
 
+$(window).load(initOnline);
+</script>
 <script type="text/javascript">
     var chatovodOnLoad = chatovodOnLoad || [];
     chatovodOnLoad.push(function() {
