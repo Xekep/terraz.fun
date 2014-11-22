@@ -5,6 +5,43 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include head.html %}
+<style>
+#progressBar {
+        width: 400px;
+        height: 22px;
+        border: 1px solid #111;
+        background-color: #292929;
+}
+ 
+#progressBar div {
+        height: 100%;
+        color: #fff;
+        text-align: right;
+        line-height: 22px;
+        width: 0;
+        background-color: #0099ff;
+}
+</style>
+<script>
+function  initOnline()
+{
+    jQuery.ajax({
+        type : "GET",
+        url : "http://sc.terraz.ru/online/status.php?callback=?",
+        dataType: "jsonp",
+        success: function(data) {
+                    if (data.offline==1)
+                    {
+                        progress(0, $('#progressBar'));
+                    } else {
+                        progress((data.playercount/100)*data.maxplayers, $('#progressBar'));
+                    }
+                 },
+    });
+}
+
+$(window).load(initOnline);
+</script>
 </head>
 
 <body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
@@ -23,6 +60,7 @@
     <div class="header-title-wrap">
       <h1>{{ site.title }}</h1>
       <h2>{{ page.title }}</h2>
+      <div id="progressBar"><div></div></div>
     </div><!-- /.header-title-wrap -->
   </div><!-- /.header-title -->
 </div><!-- /.entry-header -->
