@@ -3,7 +3,6 @@
 <script>
 function initOnline()
 {
-	alert('123');
     $.ajax({
         type : "GET",
         url : "http://sc.terraz.ru/online/status.php?callback=?",
@@ -11,9 +10,11 @@ function initOnline()
         success: function(data) {
                     if (data.offline==1)
                     {
-                        progress(0, $('#progressBar'));
+                        $('#progressBar').find('div').animate({ width: 0 }, 500).html(data.playercount + "/" + data.maxplayers);
                     } else {
-                        progress((data.playercount/100)*data.maxplayers, $('#progressBar'));
+                    	var percent = (data.playercount/100)*data.maxplayers;
+                    	var progressBarWidth = percent * $('#progressBar').width() / 100;
+                    	$('#progressBar').find('div').animate({ width: progressBarWidth }, 500).html(data.playercount + "/" + data.maxplayers);
                     }
                  },
     });
