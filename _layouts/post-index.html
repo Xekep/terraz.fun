@@ -11,6 +11,7 @@
         height: 22px;
         border: 1px solid #111;
         background-color: #292929;
+        margin:0 auto;
 }
  
 #progressBar div {
@@ -22,26 +23,6 @@
         background-color: #0099ff;
 }
 </style>
-<script>
-function  initOnline()
-{
-    jQuery.ajax({
-        type : "GET",
-        url : "http://sc.terraz.ru/online/status.php?callback=?",
-        dataType: "jsonp",
-        success: function(data) {
-                    if (data.offline==1)
-                    {
-                        progress(0, $('#progressBar'));
-                    } else {
-                        progress((data.playercount/100)*data.maxplayers, $('#progressBar'));
-                    }
-                 },
-    });
-}
-
-$(window).load(initOnline);
-</script>
 </head>
 
 <body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
