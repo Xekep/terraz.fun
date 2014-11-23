@@ -1,6 +1,8 @@
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
 <script>
+var playercount = 0;
+
 function initOnline()
 {
     $.ajax({
@@ -11,7 +13,9 @@ function initOnline()
                     if (data.offline==1)
                     {
                         $('#progressBar').find('div').animate({ width: 0 }, 500).html(data.playercount + "/" + data.maxplayers);
-                    } else {
+                        playercount = 0;
+                    } else if (playercount!=data.playercount) {
+                    	playercount = data.playercount;
                     	var percent = (data.playercount/100)*data.maxplayers;
                     	var progressBarWidth = percent * $('#progressBar').width() / 100;
                     	$('#progressBar').find('div').animate({ width: progressBarWidth }, 500).html(data.playercount + "/" + data.maxplayers);
