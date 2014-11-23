@@ -14,14 +14,13 @@ function initOnline()
                     {
                         $('#progressBar').find('div').animate({ width: 0 }, 500).html(data.playercount + "/" + data.maxplayers);
                         playercount = 0;
-                        setTimeout(initOnline,6000);
                     } else if (playercount!=data.playercount) {
                     	playercount = data.playercount;
                     	var percent = (data.playercount/100)*data.maxplayers;
                     	var progressBarWidth = percent * $('#progressBar').width() / 100;
                     	$('#progressBar').find('div').animate({ width: progressBarWidth }, 500).html(data.playercount + "/" + data.maxplayers);
-                    	setTimeout(initOnline,2000);
                     }
+                    setTimeout(initOnline,2000);
                  },
     });
 }
