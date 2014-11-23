@@ -16,7 +16,7 @@ function initOnline()
                         playercount = 0;
                     } else if (playercount!=data.playercount) {
                     	playercount = data.playercount;
-                    	var percent = (data.playercount/100)*data.maxplayers;
+                    	var percent = (data.playercount/data.maxplayers)*100;
                     	var progressBarWidth = percent * $('#progressBar').width() / 100;
                     	$('#progressBar').find('div').animate({ width: progressBarWidth }, 500).html(data.playercount + "/" + data.maxplayers);
                     }
