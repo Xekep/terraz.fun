@@ -4,8 +4,8 @@ title: На нашем сервере стартует акция «Жадные
 description: ""
 modified: 2013-10-28
 tags: [сервер]
-image:
-  feature: abstract-3.jpg
+#image:
+  #feature: abstract-3.jpg
   #credit: dargadgetz
   #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---

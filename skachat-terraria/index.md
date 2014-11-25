@@ -3,8 +3,8 @@ layout: page
 title: Скачать Terraria 1.2.4.1
 description: "На нашем сайте вы имеете возможность скачать полностью русифицированную версию игры Terraria 1.2..Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и при необходимости Вы можете установить их из папки с игрой."
 tags: [terraria, террария, терария, 1.2.4.1, скачать, русификатор, клиент]
-image:
-  feature: abstract-5.jpg
+#image:
+  #feature: abstract-5.jpg
   #credit: dargadgetz
   #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
