@@ -429,7 +429,7 @@ body {
 	color: $primary;
 	border-width: 2px !important;
 	border-style: solid !important;
-	border-color: lighten($primary,20);
+	border-color: lighten($primary,30);
 	@include rounded(3px);
 }
 #goog-wm-sb {
