@@ -73,6 +73,15 @@ body {
 		vertical-align: middle;
 		margin: 0 auto;
 		text-align: center;
+		.entry-title {
+			a:visited {
+				color: $header-color-text;
+			}
+			a {
+				text-decoration: none;
+				color: $header-color-text;
+			}
+		}
 	}
 	h1 {
 		margin: 10px;
