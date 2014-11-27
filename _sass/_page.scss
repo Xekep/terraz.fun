@@ -2,8 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	background-color: $body-color;
-	background: url(/images/bg.jpg) fixed;
+	background: $body-color url(/images/bg.jpg) fixed;
 }
 
 // Main
