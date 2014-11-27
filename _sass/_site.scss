@@ -1,12 +1,12 @@
-// Selection background-color:	#lighten($base-color, 65%); 
+// Selection
 // --------------------------------------------------
 ::-moz-selection { 
-	background-color: $body-color;
+	background-color: lighten($base-color, 65%);
 	color: $base-color; 
 	text-shadow: none; 
 }  	
 ::selection { 
-	background-color: $body-color;
+	background-color: lighten($base-color, 65%);
 	color: $base-color; 
 	text-shadow: none; 
 }
