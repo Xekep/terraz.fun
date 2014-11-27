@@ -173,9 +173,8 @@ body {
 		margin: 4px;
 		padding: 2px 6px;
 		background-color: lighten($base-color,60);
-		color: $white;
 		@include rounded(3px);
-		color: $white;
+		color: $tag-color;
 		span {
 			vertical-align: super;
 			@include font-rem(10);
