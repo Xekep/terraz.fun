@@ -18,7 +18,6 @@ comments: false
 	<a href="/images/posts/skachat-terraria/scr1_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr1_600x337.jpg" alt=""></a>
 	<a href="/images/posts/skachat-terraria/scr2_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr2_600x337.jpg" alt=""></a>
 	<a href="/images/posts/skachat-terraria/scr3_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
-	<figcaption>Террария 1.2.4.1.</figcaption>
 </figure>
 
 На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.2.4.1**.
