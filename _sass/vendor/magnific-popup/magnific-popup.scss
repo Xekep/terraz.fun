@@ -158,10 +158,13 @@ $mfp-use-visuallyhidden:              false !default; // Hide content from brows
   cursor: progress;
 }
 .mfp-zoom-out-cur {
-  &, .mfp-image-holder .mfp-close {
+  &, .mfp-image-holder {
     cursor: -moz-zoom-out;
     cursor: -webkit-zoom-out;
     cursor: zoom-out;
+  }
+  &, .mfp-close {
+    cursor: pointer;
   }
 }
 .mfp-zoom {
