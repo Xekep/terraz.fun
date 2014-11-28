@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Скачать Terraria 1.2.4.1
-description: "На нашем сайте вы имеете возможность скачать полностью русифицированную версию игры Terraria 1.2..Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и при необходимости Вы можете установить их из папки с игрой."
+description: "На нашем сайте вы имеете возможность скачать полностью русифицированную версию игры Terraria 1.2.4.1. Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и при необходимости Вы можете установить их из папки с игрой."
 tags: [terraria, террария, терария, 1.2.4.1, скачать, русификатор, клиент]
 #image:
   #feature: abstract-5.jpg
@@ -10,10 +10,21 @@ tags: [terraria, террария, терария, 1.2.4.1, скачать, ру
 comments: false
 ---
 
-На нашем сайте вы имеете возможность скачать полностью русифицированную версию игры Terraria 1.2.
+**Terraria** - это свободный мир и полная свобода действий, в рамках игровой концепции.
+Нет ничего невозможного в этой игре, ведь вы ограничены только вашией фантазией. Вы можете созидать или разрушать - вы сами выбираете свой путь в игровом мире террарии. Стройте, копайте, сражайтесь с врагами. Вперед в мир полный приключений!
+
+<iframe width="560" height="315" src="http://www.youtube.com/watch?v=E0scnF8pXfU" frameborder="0"> </iframe>
+
+<figure class="third">
+	<a href="/images/posts/skachat-terraria/scr1_1280x768.jpg"><img src="/images/posts/skachat-terraria/scr1_600x337.jpg" alt=""></a>
+	<a href="/images/posts/skachat-terraria/scr2_1280x768.jpg"><img src="/images/posts/skachat-terraria/scr2_600x337.jpg" alt=""></a>
+	<a href="/images/posts/skachat-terraria/scr3_1280x768.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
+	<figcaption>Террария 1.2.4.1.</figcaption>
+</figure>
+
+На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.2.4.1**.
 
 Необходимые фреймворки **NET Framework 4** и **XNA Framework** уже включены в дистрибутив и при необходимости Вы можете установить их из папки с игрой.
-
 
 <div markdown="0"><a href="http://yadi.sk/d/9H-TyeZaQU3og" class="btn btn-success">Terraria 1.2.4.1</a>
 <a href="https://cloud.mail.ru/public/43963f32975d%2FTerraria%201.2.4.1%20RUS.exe" class="btn btn-success">Terraria 1.2.4.1 RUS</a>
