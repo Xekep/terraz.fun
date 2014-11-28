@@ -13,12 +13,12 @@ comments: false
 **Terraria** - это свободный мир и полная свобода действий, в рамках игровой концепции.
 Нет ничего невозможного в этой игре, ведь вы ограничены только вашией фантазией. Вы можете созидать или разрушать - вы сами выбираете свой путь в игровом мире террарии. Стройте, копайте, сражайтесь с врагами. Вперед в мир полный приключений!
 
-<iframe width="560" height="315" src="http://www.youtube.com/watch?v=E0scnF8pXfU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=E0scnF8pXfU" frameborder="0"> </iframe>
 
 <figure class="third">
-	<a href="/images/posts/skachat-terraria/scr1_1280x768.jpg"><img src="/images/posts/skachat-terraria/scr1_600x337.jpg" alt=""></a>
-	<a href="/images/posts/skachat-terraria/scr2_1280x768.jpg"><img src="/images/posts/skachat-terraria/scr2_600x337.jpg" alt=""></a>
-	<a href="/images/posts/skachat-terraria/scr3_1280x768.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
+	<a href="/images/posts/skachat-terraria/scr1_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr1_600x337.jpg" alt=""></a>
+	<a href="/images/posts/skachat-terraria/scr2_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr2_600x337.jpg" alt=""></a>
+	<a href="/images/posts/skachat-terraria/scr3_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
 	<figcaption>Террария 1.2.4.1.</figcaption>
 </figure>
 
