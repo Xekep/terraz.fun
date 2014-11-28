@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Защита построек
+title: No suitable graphics card found
 description: "no suitable graphics card found"
 modified: 2013-01-03
 tags: [terraria]
