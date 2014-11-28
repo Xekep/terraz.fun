@@ -15,4 +15,4 @@ comments: false
 {: .pull-center}
 
 
-Если, после обновления игры Terraria, у вас при запуске новой версии игры появляется следующее уведомление "No suitable graphics card found", то удалите файл **config.dat** в папке my games\Terraria в моих документах.
+Если у вас при запуске новой версии игры появляется следующее уведомление "No suitable graphics card found", то удалите файл **config.dat** в папке my games\Terraria в моих документах.
