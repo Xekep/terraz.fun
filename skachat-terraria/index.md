@@ -14,7 +14,7 @@ comments: false
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/E0scnF8pXfU" frameborder="0"> </iframe>
 
-<figure class="third"
+<figure class="third">
 	<a href="/images/posts/skachat-terraria/scr1_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr1_600x337.jpg" alt=""></a>
 	<a href="/images/posts/skachat-terraria/scr2_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr2_600x337.jpg" alt=""></a>
 	<a href="/images/posts/skachat-terraria/scr3_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
