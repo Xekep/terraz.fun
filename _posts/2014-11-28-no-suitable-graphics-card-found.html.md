@@ -2,7 +2,7 @@
 layout: post
 title: No suitable graphics card found
 description: "no suitable graphics card found"
-modified: 2013-01-03
+modified: 2014-11-28
 tags: [terraria]
 comments: false
 #image:
