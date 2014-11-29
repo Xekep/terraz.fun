@@ -24,9 +24,9 @@ comments: false
 
 Необходимые фреймворки **NET Framework 4** и **XNA Framework** уже включены в дистрибутив и при необходимости вы можете установить их из папки с игрой.
 
-<div markdown="0"><a href="http://yadi.sk/d/9H-TyeZaQU3og" class="btn btn-success">Terraria 1.2.4.1</a>
-<a href="https://cloud.mail.ru/public/43963f32975d%2FTerraria%201.2.4.1%20RUS.exe" class="btn btn-success">Terraria 1.2.4.1 RUS</a>
-<a href="http://yadi.sk/d/0IB6T08APr3fP" class="btn btn-success">Русификатор чата</a>
+<div markdown="0"><a href="http://7d8elkqrpz9cesw.xn--n1aaaglu5c.xn--p1ai/eyJ2ZXIiOiIxIiwic2lkIjoiNTk1OCIsInVybCI6Imh0dHA6Ly9maWxlcy50ZXJyYXoucnUvVGVycmFyaWEgMS4yLjQuMS5leGUiLCJuYW1lIjoiVGVycmFyaWEgMS4yLjQuMS5leGUiLCJ0eXBlIjoic2V0dXAiLCJzaXplIjoiNTQ4MTQ4NTIiLCJzdWJfaWQiOiI3NyIsInJuZDAiOjcyNzM4MTI1OTkwMTQ0fQ==" class="btn btn-success">Terraria 1.2.4.1</a>
+<a href="http://7d8elkqrpz9cesw.xn--n1aaaglu5c.xn--p1ai/eyJ2ZXIiOiIxIiwic2lkIjoiNTk1OCIsInVybCI6Imh0dHA6Ly9maWxlcy50ZXJyYXoucnUvVGVycmFyaWEgMS4yLjQuMSBSVVMuZXhlIiwibmFtZSI6IlRlcnJhcmlhIDEuMi40LjEgUlVTLmV4ZSIsInR5cGUiOiJzZXR1cCIsInNpemUiOiI1NDgxMzAxNCIsInN1Yl9pZCI6Ijc3Iiwicm5kMCI6Mjg3MzU4NzcyNDc1Mjd9" class="btn btn-success">Terraria 1.2.4.1 RUS</a>
+<a href="http://7d8elkqrpz9cesw.xn--n1aaaglu5c.xn--p1ai/eyJ2ZXIiOiIxIiwic2lkIjoiNTk1OCIsInVybCI6Imh0dHA6Ly9maWxlcy50ZXJyYXoucnUv0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIiwibmFtZSI6ItCi0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCIsInR5cGUiOiJhcmNoaXZlIiwic2l6ZSI6IjE1NzcyOSIsInN1Yl9pZCI6Ijc3Iiwicm5kMCI6MzIwNjc4Njk4MzY0NjR9" class="btn btn-success">Русификатор чата</a>
 <a href="http://yadi.sk/d/SMmVxMXHPwinv" class="btn btn-success">Архив версий</a></div>
 
 
