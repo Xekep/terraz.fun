@@ -12,62 +12,45 @@ tags: [terraria, обновление]
 
 <!-- more -->
 
-**_Перевод с оффициального форума_**
----
 "Насколько вы все знаете, мы просматривали предложения от общества, что-бы мы могли добавить в игру. 
 К сожалению, у нас нет столько времени и человеческих ресурсов что-бы реализовать все ваши идеи, но 
 некоторые вещи нам понравились, и после небольшой корректировки они будут добавлены!
 Снизу будет список что мы добавим."
 
-[Розовый гель от Ilmarinen](http://forums.terraria.org/index.php?threads/pinky-and-the-lost-girl.2589/)
 
-[Быстрый лут от Szgamer227](http://forums.terraria.org/index.php?threads/quick-loot-storage-option-new-looting-feature-for-easy-item-refreshing.1852/)
-
-[Ледяные патроны от BaconFry](http://forums.terraria.org/index.php?threads/glacial-ice.510/)
-
-[Слот для крюка в инвентаре от Szgamer227 и FruitBait](http://forums.terraria.org/index.php?threads/grappling-hook-equip-slot.1844/)
-
-[Чтение табличек при помощи курсора не открывая их от Miffta](http://forums.terraria.org/index.php?threads/mouse-over-signs.1290/)
-
-[Префиксы для Призывателей от BaconFry](http://forums.terraria.org/index.php?threads/summoner-prefixes.690/)
-
-[Модификаторы удочек от Stormconure](http://forums.terraria.org/index.php?threads/fishing-pole-modifers.3915/)
-
-И изменения [Staff of Regrowth](http://terraria.gamepedia.com/Staff_of_Regrowth) от zimberzimber, но к сожалению пост не найден.
+* Розовый гель от Ilmarinen
+* Быстрый лут от Szgamer227
+* Ледяные патроны от BaconFry
+* Слот для крюка в инвентаре от Szgamer227 и FruitBait
+* Чтение табличек при помощи курсора не открывая их от Miffta
+* Префиксы для Призывателей от BaconFry
+* Модификаторы удочек от Stormconure
 
 После просмотра видео мы не могли не увидеть некоторые интересные вещи.
----
+
 
 * Новый вид блоков(Гранит).
-
 * Новый вид фурнитуры(Гранитная).
-
 * Панель возле жизней, показывающая время, позицию и даже кол-во врагов рядом!
-
 * Зелье Черной Дыры(Позволяет телепортироваться к члену команды).
-
 * Новый меч у Cenx(Meowmere(?)).
-
 * Новая броня, которую мы можем видеть на Cenx.
-
 * Предметы можно добавить в избранное и их нельзя будет удалить!
-***
 
 Грядущие изменения в системе жидкостей.
----
 На следущих 2х видео мы сможем увидеть изменения которые грядут:
 
 **До**
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/WnHpKjkHoxs" frameborder="0" allowfullscreen></iframe>
+
 
 **После**
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/jCETFMsrNxE" frameborder="0" allowfullscreen></iframe>
-
-**К**ак мы можем наблюдать, поток воды стал "закругленный" и более живой, что несомненно придает ему реалистичности.
-
-***
+<figure class="half">
+	<iframe width="230" height="158" src="//www.youtube.com/embed/WnHpKjkHoxs" frameborder="0" allowfullscreen></iframe>
+	<iframe width="230" height="158" src="//www.youtube.com/embed/jCETFMsrNxE" frameborder="0" allowfullscreen></iframe>
+	<figcaption>Как мы можем наблюдать, поток воды стал "закругленный" и более живой, что несомненно придает ему большей реалистичности.</figcaption>
+</figure>
 
 Предмет №3000!
 ---
