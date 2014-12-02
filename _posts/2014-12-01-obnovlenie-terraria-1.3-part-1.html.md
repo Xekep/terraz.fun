@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Еще больше информации о обновлении 1.3(Часть 1)!"
-description: 1.3 update spoiler
-modified: {}
-tags: 
-  - terraria
-  - новости
-comments: true
-published: true
+title: "Информация об обновлении 1.3 (Часть 1)"
+description: "Информация об обновлении Terraria 1.3"
+modified: 2014-12-01
+tags: [terraria, обновление]
+published: false
 ---
 
 Не так давно на форуме появился еще один спойлер с информацией об 1.3. Давайте разберем что-же там!
