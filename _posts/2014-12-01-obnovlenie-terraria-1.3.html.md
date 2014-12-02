@@ -68,11 +68,11 @@ tags: [terraria, обновление, terraria 1.3]
 	<a href="/images/posts/1.3-obnovlenie/npc.jpg"><img src="/images/posts/1.3-obnovlenie/npc_600x346.jpg" alt=""></a>
 </figure>
 
-##Новый Маунт(1 из 3)!
+##Новый транспорт
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ejVkzMGIoVs" frameborder="0" allowfullscreen></iframe>
 
-Как мы видим на видео, в обновлении будет добавлена горнодобывающая машина, что не может не радовать.
+Как мы видим на видео, в обновлении будет добавлена некая горнодобывающая машина, что не может не радовать.
 
 
 ##Послесловие
