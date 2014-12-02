@@ -64,9 +64,9 @@ tags: [terraria, обновление, terraria 1.3]
 
 Наконец-то эти чертовы тушки получили интеллект и огромное количество новых анимаций, таких как сидение на стуле.
 
-<figure>
+<div align="center"><figure>
 	<a href="/images/posts/1.3-obnovlenie/npc.jpg"><img src="/images/posts/1.3-obnovlenie/npc_600x346.jpg" alt=""></a>
-</figure>
+</figure></div>
 
 ##Новый транспорт
 
