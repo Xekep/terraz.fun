@@ -2,6 +2,7 @@
 title: Анонс новой версии Terraria 1.3
 layout: post
 tags: [Terraria 1.3, анонс, Обновление]
+modified: 2014-06-09
 ---
 
 <figure>
