@@ -11,7 +11,7 @@ tags: [terraria, обновление, terraria 1.3]
 <iframe width="560" height="315" src="//www.youtube.com/embed/Ft56esseBEA" frameborder="0" allowfullscreen></iframe>
 <!-- more -->
 
-Разработчики просматривали различные предложения от участников сообщества Terraria, по добавлению новых вещей в игру, и некоторые идеи им понравились.
+Разработчики просматривали различные предложения от участников сообщества Terraria, по добавлению новых вещей в игру, и некоторые им понравились.
 
 После небольшой корректировки, следующие вещи будут добавлены:
 
@@ -37,8 +37,8 @@ tags: [terraria, обновление, terraria 1.3]
 Так же грядут изменения в физике жидкости.
 
 <figure>
-	<iframe width="230" height="158" src="//www.youtube.com/embed/WnHpKjkHoxs" frameborder="0" allowfullscreen></iframe>
-	<iframe width="230" height="158" src="//www.youtube.com/embed/jCETFMsrNxE" frameborder="0" allowfullscreen></iframe>
+	<iframe width="230" height="130" src="//www.youtube.com/embed/WnHpKjkHoxs" frameborder="0" allowfullscreen></iframe>
+	<iframe width="230" height="130" src="//www.youtube.com/embed/jCETFMsrNxE" frameborder="0" allowfullscreen></iframe>
 	<figcaption>Как мы можем наблюдать, поток воды стал "закругленный" и более живой, что несомненно придает ему большей реалистичности.</figcaption>
 </figure>
 
