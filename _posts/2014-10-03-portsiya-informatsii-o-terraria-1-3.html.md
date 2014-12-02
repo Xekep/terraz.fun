@@ -36,6 +36,7 @@ modified: 2014-10-03
 Еще наконец-то сделали новых проклятых кроликов (Crimson Bunny), что как бы намекает, что красная луна будет не единственным ивентом, затрагивающим этих милых пушистиков.
 
 Так же, одна гифка с летающим НЕХ, выполняющей функцию киркитопораполетаивсегочтотолькоможно, была вылита в сеть. 
+
 <div align="center"><figure>
 	<a href="/images/posts/1.3-obnovlenie/ColorlessMarriedHarrierhawk.gif"><img src="/images/posts/1.3-obnovlenie/ColorlessMarriedHarrierhawk-300x224.gif" alt=""></a>
 </figure></div>
