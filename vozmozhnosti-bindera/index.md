@@ -2,12 +2,15 @@
 title: Возможности биндера
 author: xekep
 layout: page
-dsq_thread_id:
-  - 2887761624
+comments: false
 ---
+
+Все игроки нашего сервера имеют возможность использовать **биндер Terraria**. Для этого необходимо скачать лаунчер и авторизоваться в нем используя логин и пароль от аккаунта на нашем сервере.
+
+
 # О биндере
 
-Данный биндер является реинкарнацией <span style="color: #3a3a3a;">Terraria Binder by </span><strong style="color: #3a3a3a;">argc.</strong>
+Данный биндер является реинкарнацией Terraria Binder by **argc**.
 
 # Клавиши
 
@@ -55,7 +58,3 @@ dsq_thread_id:
 112 &#8212; код клавиши F1. При ее нажатии откроется текстовое поле чата и в него будет скопирован текст &#171;/ban&#187;.
 
 Коды остальных клавиш можно найти тут: http://www.arininav.ru/js/keycodes.htm
-
-# Автор
-
-<span style="color: #3a3a3a;">Binder создан на основе Terraria Binder by <strong>argc.</strong></span>
