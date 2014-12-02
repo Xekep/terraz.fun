@@ -3,23 +3,13 @@ title: Анонс новой версии Terraria 1.3
 layout: post
 tags: [Terraria 1.3, анонс, Обновление]
 ---
-<div id="attachment_522" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://terraz.ru/wp-content/uploads/2014/06/NExPCcP.png"><img class="wp-image-522 size-medium" title="terraria 1.3" src="http://terraz.ru/wp-content/uploads/2014/06/NExPCcP-300x81.png" alt="Terraria 1.3" width="300" height="81" /></a><p class="wp-caption-text">
-    Обновление Terraria 1.3
-  </p>
-</div>
 
-Добрый день, уважаемые игроки. Недавно на официальном форуме **Terraria** появилась **информация о обновлении Terraria 1.3** скачать которое вы сможете [тут][1], как только оно станет доступно (даты выхода пока нет).
+<figure class="third">
+	<a href="/images/posts/1.3-obnovlenie/terraria-spoiler.png"><img src="/images/posts/1.3-obnovlenie/terraria-spoiler-620x144.png" alt=""></a>
+</figure>
 
-В оглавлении темы вы видите картинку **анонса** **Terraria 1.3**, с пока еще не понятными, размытыми фигурками существ (А может и вовсе чего-то не живого). Этот небольшой скетч предоставил Crowno, тот самый человек, чью броню последнее время любят таскать [&#171;продвинутые&#187;][2] игроки, но сейчас не о том.
+Добрый день, уважаемые игроки. Недавно на официальном форуме **Terraria** появилась **информация о обновлении Terraria 1.3** [скачать которое вы сможете](http://fun.terraz.ru/skachat-terraria/), как только оно станет доступно.
+<!--read more-->
+В оглавлении темы вы видите картинку **анонса** **Terraria 1.3**, с пока еще не понятными, размытыми фигурками существ, а может и вовсе чего-то не живого. Этот небольшой скетч предоставил Crowno, тот самый человек, чью броню последнее время любят использовать [продвинутые игроки](http://fun.terraz.ru/na-nashem-servere-startuet-aktsiya-zhadnyie-svini.html), но сейчас не о том.
 
 Как можно предположить, эти маленькие, размытые спрайты являются роботами (Во всяком случае так это все видит ваш покорный слуга), значит ли это, что… Lunar все же явится в эту великолепную игру и наконец-то покажет, что такое настоящая битва?
-
-P.S. Свои предположения вы так же можете оставлять под этой темой. (Быть может кто-то и получит свою законную випку на неделю-другую за правильную догадку ;)
-
-<p style="text-align: center;">
-  Искренне ваши &#8212; команда администрации <strong>TerraZ </strong>
-</p>
-
- [1]: http://terraz.ru/skachat-terraria "Скачать Terraria 1.2"
- [2]: http://terraz.ru/na-nashem-servere-startuet-aktsiya-zhadnyie-svini.html
