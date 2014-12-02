@@ -38,6 +38,7 @@ tags: [terraria, обновление, terraria 1.3]
 
 <iframe width="230" height="130" src="//www.youtube.com/embed/WnHpKjkHoxs" frameborder="0" allowfullscreen></iframe>
 <iframe width="230" height="130" src="//www.youtube.com/embed/jCETFMsrNxE" frameborder="0" allowfullscreen></iframe>
+
 Как мы можем наблюдать, поток воды стал "закругленный" и более живой, что несомненно придает ему большей реалистичности.
 
 Предмет №3000!
