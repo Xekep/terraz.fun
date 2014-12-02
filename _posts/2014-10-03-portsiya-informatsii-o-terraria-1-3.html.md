@@ -28,17 +28,17 @@ modified: 2014-10-03
 
 Во-вторых, еще немого информации о мобах. Ивент "Another side" как-то связан с культистами, большое количество которых было показано на гифке, которой поделились разработчики.
 
-<figure>
+<div align="center"><figure>
 	<a href="/images/posts/1.3-obnovlenie/Cultist.gif"><img src="/images/posts/1.3-obnovlenie/Cultist-300x166.gif" alt=""></a>
-</figure>
+</figure></div>
 
 
 Еще наконец-то сделали новых проклятых кроликов (Crimson Bunny), что как бы намекает, что красная луна будет не единственным ивентом, затрагивающим этих милых пушистиков.
 
 Так же, одна гифка с летающим НЕХ, выполняющей функцию киркитопораполетаивсегочтотолькоможно, была вылита в сеть. 
-<figure>
+<div align="center"><figure>
 	<a href="/images/posts/1.3-obnovlenie/ColorlessMarriedHarrierhawk.gif"><img src="/images/posts/1.3-obnovlenie/ColorlessMarriedHarrierhawk-300x224.gif" alt=""></a>
-</figure>
+</figure></div>
 
   
 Остальное вы сможете узнать в следующих сериях, а пока, спасибо за внимание.
