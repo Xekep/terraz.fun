@@ -3,7 +3,7 @@ layout: post
 title: Terraria Rap by JT Machinima - "Dig Deeper" 
 description: ""
 modified: 2014-11-30
-tags: [творчество фанатов, видео]
+tags: [творчество фанатов, terraria, террария, видео]
 #image:
   #feature: abstract-3.jpg
   #credit: dargadgetz
