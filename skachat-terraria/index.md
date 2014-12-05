@@ -33,3 +33,4 @@ comments: false
 <a href="http://2647d02c040e3f53df70af0ad7e0feb5.getloader.ru/file?f=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjgzOiJodHRwOi8vZmlsZXMudGVycmF6LnJ1L9Ci0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo5OiJmaWxlX25hbWUiO3M6NjA6ItCi0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo5OiJmaWxlX3R5cGUiO3M6NzoiYXJjaGl2ZSI7czo5OiJmaWxlX3NpemUiO3M6NjoiMTU3NzI5IjtzOjY6InJhbmRvbSI7aTozMjU3NDQ3Mzk7fQ%2C%2C" class="btn btn-success">Русификатор чата</a>
 <a href="http://yadi.sk/d/SMmVxMXHPwinv" class="btn btn-success">Архив версий</a></div>
 
+После выхода [обновления Terraria 1.3](http://fun.terraz.ru/obnovlenie-terraria-1.3.html), оно так же будет доступно для скачивания на этой странице.
