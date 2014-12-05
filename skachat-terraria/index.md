@@ -10,10 +10,6 @@ tags: [terraria, террария, терария, 1.2.4.1, скачать, ру
 comments: false
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/E0scnF8pXfU" frameborder="0"> </iframe>
-
-**Terraria** - это свободный мир и полная свобода действий, в рамках игровой концепции. Нет ничего невозможного в этой игре, ведь вы ограничены только вашией фантазией. Вы можете созидать или разрушать - вы сами выбираете свой путь в игровом мире террарии. Стройте, копайте, сражайтесь с врагами. Вперед в мир полный приключений!
-
 <figure class="third">
 	<a href="/images/posts/skachat-terraria/scr1_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr1_600x337.jpg" alt=""></a>
 	<a href="/images/posts/skachat-terraria/scr2_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr2_600x337.jpg" alt=""></a>
@@ -34,3 +30,8 @@ comments: false
 <a href="http://yadi.sk/d/SMmVxMXHPwinv" class="btn btn-success">Архив версий</a></div>
 
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/obnovlenie-terraria-1.3.html), оно так же будет доступно для скачивания на этой странице.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/E0scnF8pXfU" frameborder="0"> </iframe>
+
+**Terraria** - это свободный мир и полная свобода действий, в рамках игровой концепции. Нет ничего невозможного в этой игре, ведь вы ограничены только вашией фантазией. Вы можете созидать или разрушать - вы сами выбираете свой путь в игровом мире террарии. Стройте, копайте, сражайтесь с врагами. Вперед в мир полный приключений!
+
