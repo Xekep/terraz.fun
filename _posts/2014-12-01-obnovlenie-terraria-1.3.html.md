@@ -3,7 +3,7 @@ layout: post
 title: "Информация об обновлении Terraria 1.3"
 description: "Информация о грядущем обновлении Terraria 1.3"
 modified: 2014-12-01
-tags: [terraria, обновление, terraria 1.3]
+tags: [terraria, обновление, terraria 1.3, террария]
 ---
 
 <div align="center"><figure>
