@@ -33,20 +33,3 @@ comments: false
 <a href="http://2647d02c040e3f53df70af0ad7e0feb5.getloader.ru/file?f=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjgzOiJodHRwOi8vZmlsZXMudGVycmF6LnJ1L9Ci0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo5OiJmaWxlX25hbWUiO3M6NjA6ItCi0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo5OiJmaWxlX3R5cGUiO3M6NzoiYXJjaGl2ZSI7czo5OiJmaWxlX3NpemUiO3M6NjoiMTU3NzI5IjtzOjY6InJhbmRvbSI7aTozMjU3NDQ3Mzk7fQ%2C%2C" class="btn btn-success">Русификатор чата</a>
 <a href="http://yadi.sk/d/SMmVxMXHPwinv" class="btn btn-success">Архив версий</a></div>
 
-Авторы любительского русификатора Translators Team
-
-* Teleporter — организатор проекта и C# программист
-* leha_bot — C# программист, оптимизация исходного кода
-* Alex_Great — главный переводчик
-* ArionWT — перерисовка логотипа
-* Samurai — создание кириллической версии оригинального шрифта + участие в переводе
-* ApmaTypa — сверхкачественный перевод и проверка текстов
-* strelokhalfer — качественный перевод и усердная работа
-* Rakapudl — качественный перевод
-* greengremlin — качественный перевод и проверка текстов
-* NonSemper — качественный перевод
-* Gerrus — исключительно качественный и точный перевод
-* SNSergey — качественный перевод и усердная работа
-* Lex_Liven — сверхкачественный перевод, проверка текстов, а также достижение консенсуса в сложных, труднопереводимых словах
-
-WebMoney-счёт для пожертвований Translators Team: **R311488339903**
