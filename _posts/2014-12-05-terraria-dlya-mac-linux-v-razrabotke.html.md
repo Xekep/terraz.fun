@@ -27,12 +27,12 @@ tags: [terraria 1.3, террария, терраррия, обновление,
 
 В общих чертах, обе эти версии во многом в разработке, поэтому мы не можем давать никаких обещаний насчет даты выхода, но мы хотели убедиться, что наши многострадальные фанаты Mac/Linux знают, что мы прилагаем все усилия, чтобы перенести Terraria на их платформы!
 
-<figure>
+<div align="center"><figure>
 	<a href="/images/posts/1.3-obnovlenie/terraria-linux.png"><img src="/images/posts/1.3-obnovlenie/terraria-linux_600x337.png" alt=""></a>
 </figure>
 
 <figure>
 	<a href="/images/posts/1.3-obnovlenie/terraria-mac.jpg"><img src="/images/posts/1.3-obnovlenie/terraria-mac_600x337.jpg" alt=""></a>
-</figure>
+</figure></div>
 
 *Перевод с официального сайта terraria.org.*
