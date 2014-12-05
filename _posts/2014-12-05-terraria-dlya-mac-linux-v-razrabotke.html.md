@@ -2,7 +2,7 @@
 layout: post
 title: Terraria для Mac и Linux в разработке!
 description: ""
-modified: 2014-05-12
+modified: 2014-12-05
 tags: [terraria 1.3, террария, терраррия, обновление, анонс, mac, linux]
 ---
 
