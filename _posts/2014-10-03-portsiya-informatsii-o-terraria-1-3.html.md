@@ -1,7 +1,7 @@
 ---
 title: Порция информации о Terraria 1.3
 description: "Порция информации о Terraria 1.3"
-tag: [Terraria 1.3, анонс, обновление]
+tag: [terraria 1.3, terraria, террария, анонс, обновление]
 layout: post
 modified: 2014-10-03
 ---
