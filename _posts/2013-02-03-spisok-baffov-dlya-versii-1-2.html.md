@@ -3,7 +3,7 @@ layout: post
 title: Список баффов для версии 1.2
 description: ""
 modified: 2013-02-03
-tags: [сервер]
+tags: [сервер, terraria, террария]
 #image:
   #feature: abstract-3.jpg
   #credit: dargadgetz
