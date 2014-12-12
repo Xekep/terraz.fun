@@ -165,6 +165,7 @@ To use commands WorldEdit you need to activate NumLock, because most of commands
 4. Press NumPad_SLASH to complete the replacing.
 
 **Copy buildings from solo game, or from extern server**
+
 1. Select the area to copy (To know how, please check "Copy buildings from the server into your world").
 2. Create a scheme Right Click+S.
 3. Login to server with the same nickname.
