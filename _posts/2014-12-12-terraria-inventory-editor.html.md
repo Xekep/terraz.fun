@@ -7,7 +7,7 @@ tags: [terraria, терраррия, редактор инвентаря, Terrar
 published: false
 ---
 
-Terraria Inventory Editor 5.7.2 поддерживает Terraria 1.2.4.1.
+Terraria Inventory Editor 5.7.2 поддерживает [Terraria 1.2.4.1](http://fun.terraz.ru/skachat-terraria/).
 
 ![privat]({{ site.url }}/images/posts/terraria-inventory-editor/terraria-inventory-editor-looks.png)
 {: .pull-center}
