@@ -56,11 +56,3 @@
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
-
-<!-- IC -->
-<script src="/assets/js/ic_script.js"></script>
-<script>
-  $(document).ready(function () {
-     $(".ic-init").delay(1000).show(0);
-  });
-</script>
