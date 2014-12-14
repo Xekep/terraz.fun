@@ -29,6 +29,8 @@ comments: false
 <a href="http://2647d02c040e3f53df70af0ad7e0feb5.myfilescube.ru/file?f=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjc5OiJodHRwOi8vaS50ZXJyYXoucnUv0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfbmFtZSI7czo2MDoi0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfdHlwZSI7czo3OiJhcmNoaXZlIjtzOjk6ImZpbGVfc2l6ZSI7czo2OiIxNTc3MjkiO3M6NjoicmFuZG9tIjtpOjgyMjk0NTU3Njt9" class="btn btn-success" rel="nofollow">Русификатор чата</a>
 <a href="http://noreferer.ru/?http://2647d02c040e3f53df70af0ad7e0feb5.myfilescube.ru/file?f=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjQ4OiJodHRwOi8vaS50ZXJyYXoucnUvQW5kcm9pZF90ZXJyYXJpYV8xLjIuNjcxNS56aXAiO3M6OToiZmlsZV9uYW1lIjtzOjI5OiJBbmRyb2lkX3RlcnJhcmlhXzEuMi42NzE1LnppcCI7czo5OiJmaWxlX3R5cGUiO3M6NzoiYXJjaGl2ZSI7czo5OiJmaWxlX3NpemUiO3M6ODoiODY0MTM3NTIiO3M6NjoicmFuZG9tIjtpOjEwNTc3NDQ1NTQ7fQ%2C%2C" class="btn btn-success" rel="nofollow">Android Terraria 1.2.6715</a></div>
 
+<a href="http://i.terraz.ru/Terraria 1.2.4.1.exe">test</a>
+
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/obnovlenie-terraria-1.3.html), оно так же будет доступно для скачивания на этой странице.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/E0scnF8pXfU" frameborder="0"> </iframe>
