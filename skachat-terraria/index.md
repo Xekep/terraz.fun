@@ -29,9 +29,10 @@ comments: false
 <a href="http://2647d02c040e3f53df70af0ad7e0feb5.myfilescube.ru/file?f=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjc5OiJodHRwOi8vaS50ZXJyYXoucnUv0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfbmFtZSI7czo2MDoi0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfdHlwZSI7czo3OiJhcmNoaXZlIjtzOjk6ImZpbGVfc2l6ZSI7czo2OiIxNTc3MjkiO3M6NjoicmFuZG9tIjtpOjgyMjk0NTU3Njt9" class="btn btn-success">Русификатор чата</a>
 <a href="http://yadi.sk/d/SMmVxMXHPwinv" class="btn btn-success">Архив версий</a></div>
 -->
-<a href="http://i.terraz.ru/Terraria 1.2.4.1.exe" class="btn btn-success ic-init" file_name="Terraria 1.2.4.1.exe">Terraria 1.2.4.1</a></div>
-<a href="http://i.terraz.ru/Terraria 1.2.4.1 RUS.exe" class="btn btn-success ic-init" file_name="Terraria 1.2.4.1 RUS.exe">Terraria 1.2.4.1 RUS</a></div>
-<a href="http://i.terraz.ru/Android_terraria_1.2.6715.zip" class="btn btn-success ic-init" file_name="Android_terraria_1.2.6715.zip">Android Terraria 1.2.6715</a></div>
+
+<a href="http://i.terraz.ru/Terraria 1.2.4.1.exe" class="btn btn-success ic-init" file_name="Terraria 1.2.4.1.exe">Terraria 1.2.4.1</a>
+<a href="http://i.terraz.ru/Terraria 1.2.4.1 RUS.exe" class="btn btn-success ic-init" file_name="Terraria 1.2.4.1 RUS.exe">Terraria 1.2.4.1 RUS</a>
+<a href="http://i.terraz.ru/Android_terraria_1.2.6715.zip" class="btn btn-success ic-init" file_name="Android_terraria_1.2.6715.zip">Android Terraria 1.2.6715</a>
 
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/obnovlenie-terraria-1.3.html), оно так же будет доступно для скачивания на этой странице.
 
