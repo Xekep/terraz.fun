@@ -4,7 +4,6 @@ title: Редактор инвентаря для Terraria
 description: ""
 modified: 2014-12-12
 tags: [terraria, терраррия, редактор инвентаря, Terraria Inventory Editor]
-published: false
 ---
 
 Terraria Inventory Editor 5.7.2 поддерживает [Terraria 1.2.4.1](http://fun.terraz.ru/skachat-terraria/).
