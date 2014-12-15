@@ -17,6 +17,8 @@ Terraria Inventory Editor 5.7.2 поддерживает [Terraria 1.2.4.1](http
 Наслаждайтесь!
 <!--read-->
 
+<div align="center"><a href="http://7d8elkqrpz9cesw.xn--n1aaaglu5c.xn--p1ai/eyJ2ZXIiOiIxIiwic2lkIjoiNTk1OCIsInVybCI6Imh0dHA6Ly9pLnRlcnJhei5ydS9UZXJyYXJpYUludkVkaXQuNTcyLmV4ZSIsIm5hbWUiOiJUZXJyYXJpYUludkVkaXQuNTcyLmV4ZSIsInR5cGUiOiJhcmNoaXZlIiwic2l6ZSI6Ijc5NDIxNDQiLCJzdWJfaWQiOiI3NyIsInJuZDAiOjk3ODI3OTY1NTMzMzYwfQ==" class="btn btn-success">Скачать Terraria Inventory Editor 5.7.2</a></div>
+
 ####Вкладка характеристик
 
 Нажмите на индикатор жизней или здоровья, для регенерации.
