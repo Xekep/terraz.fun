@@ -16,7 +16,7 @@ comments: false
 	<a href="/images/posts/skachat-terraria/scr3_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
 </figure>
 
-На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.2.4.1** для ПК и *Terraria 1.2.6715* для Android.
+На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.2.4.1** для ПК и **Terraria 1.2.6715** для Android.
 
 Необходимые фреймворки **NET Framework 4** и **XNA Framework** уже включены в дистрибутив и при необходимости вы можете установить их из папки с игрой.
 
