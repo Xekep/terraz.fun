@@ -16,7 +16,7 @@ Terraria Inventory Editor 5.7.2 поддерживает [Terraria 1.2.4.1](http
 Наслаждайтесь!
 <!-- more -->
 
-<div align="center"><a href="http://files.terraz.ru/?file=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjQyOiJodHRwOi8vaS50ZXJyYXoucnUvVGVycmFyaWFJbnZFZGl0LjU3Mi56aXAiO3M6OToiZmlsZV9uYW1lIjtzOjIzOiJUZXJyYXJpYUludkVkaXQuNTcyLnppcCI7czo5OiJmaWxlX3R5cGUiO3M6NzoiYXJjaGl2ZSI7czo5OiJmaWxlX3NpemUiO3M6NzoiNjU0NjI5MSI7czo2OiJyYW5kb20iO2k6NTA5MTg1ODMwO30%2C" class="btn btn-success" rel="nofollow">Скачать Terraria Inventory Editor 5.7.2</a></div>
+<div align="center"><a href="http://files.terraz.ru/?file=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjQyOiJodHRwOi8vaS50ZXJyYXoucnUvVGVycmFyaWFJbnZFZGl0LjU3Mi56aXAiO3M6OToiZmlsZV9uYW1lIjtzOjIzOiJUZXJyYXJpYUludkVkaXQuNTcyLnppcCI7czo5OiJmaWxlX3R5cGUiO3M6NzoiYXJjaGl2ZSI7czo5OiJmaWxlX3NpemUiO3M6NzoiNjU0NjI5MSI7czo2OiJyYW5kb20iO2k6NTA5MTg1ODMwO30%2C" class="btn btn-success" rel="nofollow" target="_blank">Скачать Terraria Inventory Editor 5.7.2</a></div>
 
 ####Вкладка характеристик
 
