@@ -61,12 +61,6 @@
         <span class="author vcard"><span class="fn"><a href="{{ site.owner.page }}" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>
-      <span itemscope itemtype="http://schema.org/Article">   
-      <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">   
-      <meta itemprop="ratingValue" content="5">
-      <meta itemprop="ratingCount" content="100"> 
-      </span>   
-      </span>
     </div><!-- /.entry-content -->
     {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
     {% if site.related_posts.size %}{% include read-more.html %}{% endif %}
