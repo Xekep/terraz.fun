@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Разработчики Terraria анонсировали новую игру в серии - Terraria: Otherworld"
+title: "Анонсирована новая игра в серии - Terraria: Otherworld"
 description: "Анонс Terraria: Otherworld"
 modified: 2015-02-18
 tags: [Terraria: Otherworld]
@@ -10,15 +10,9 @@ tags: [Terraria: Otherworld]
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/RCXk_ZCgxJI" frameborder="0"></iframe>
 
-<div align="center"><figure>
-	<a href="/images/posts/terraria-otherworld/screenshot_0.jpg"><img src="/images/posts/terraria-otherworld/screenshot_0.mjpg" alt=""></a>
-</figure>
-<figure>
+<div align="center"><figure class="third">
+	<a href="/images/posts/terraria-otherworld/screenshot_0.jpg"><img src="/images/posts/terraria-otherworld/screenshot_0m.jpg" alt=""></a>
 	<a href="/images/posts/terraria-otherworld/screenshot_1.jpg"><img src="/images/posts/terraria-otherworld/screenshot_1m.jpg" alt=""></a>
-</figure>
-<figure>
 	<a href="/images/posts/terraria-otherworld/screenshot_2.jpg"><img src="/images/posts/terraria-otherworld/screenshot_2m.jpg" alt=""></a>
-</figure>
-<figure>
 	<a href="/images/posts/terraria-otherworld/screenshot_3.jpg"><img src="/images/posts/terraria-otherworld/screenshot_3m.jpg" alt=""></a>
 </figure></div>
