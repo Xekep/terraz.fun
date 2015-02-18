@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Анонсирована новая игра в серии - Terraria: Otherworld"
+title: "Анонсирована новая игра - Terraria: Otherworld"
 description: "Анонс Terraria: Otherworld"
 modified: 2015-02-18
 tags: ["Terraria: Otherworld"]
