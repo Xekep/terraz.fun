@@ -18,7 +18,7 @@ comments: false
 
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/obnovlenie-terraria-1.3.html), оно доступно для скачивания на этой странице.
 
-<div markdown="0"><a href="http://6d2105aa0223fba23296f007b06ec96e.dfjhreyuth.ru/file?f=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjM1OiJodHRwOi8vaS50ZXJyYXoucnUvVGVycmFyaWEgMS4zLmV4ZSI7czo5OiJmaWxlX25hbWUiO3M6MTY6IlRlcnJhcmlhIDEuMy5leGUiO3M6OToiZmlsZV90eXBlIjtzOjU6InNldHVwIjtzOjk6ImZpbGVfc2l6ZSI7czo4OiI4MDMzOTQ5NiI7czo2OiJyYW5kb20iO2k6MTE0NzQwNTM4Mjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.0.3</a>
+<div markdown="0"><a href="http://files.terraria-z.ru/?file=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjM1OiJodHRwOi8vaS50ZXJyYXoucnUvVGVycmFyaWEgMS4zLmV4ZSI7czo5OiJmaWxlX25hbWUiO3M6MTY6IlRlcnJhcmlhIDEuMy5leGUiO3M6OToiZmlsZV90eXBlIjtzOjU6InNldHVwIjtzOjk6ImZpbGVfc2l6ZSI7czo4OiI4MDMzOTQ5NiI7czo2OiJyYW5kb20iO2k6MTE0NzQwNTM4Mjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.0.3</a>
 <a href="http://files.terraria-z.ru/?file=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjc5OiJodHRwOi8vaS50ZXJyYXoucnUv0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfbmFtZSI7czo2MDoi0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfdHlwZSI7czo3OiJhcmNoaXZlIjtzOjk6ImZpbGVfc2l6ZSI7czo2OiIxNTc3MjkiO3M6NjoicmFuZG9tIjtpOjgyMjk0NTU3Njt9" class="btn btn-success" rel="nofollow" target="_blank">Русификатор чата</a></div>
 
 ###Старые версии террарии
