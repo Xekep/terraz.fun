@@ -55,6 +55,15 @@ comments: false
 43. Слякоть (Slush Block)
 44. Эбонитовый песок (Ebonsand Block)
 45. Жемчужный песок (Pearlsand Block)
+46. (Portal Gun)
+47. (Drill Containment Unit)
+48. (Sticky Dynamite)
+49. (Bouncy Dynamite)
+50. (Bouncy Bomb)
+51. (Bomb Fish)
+52. (Bottomless Water Bucket)
+53. (Super Absorbant Sponge)
+54. (Blood Water)
 
 
 На нашем сервере запрещается использовать следующие снаряды:
