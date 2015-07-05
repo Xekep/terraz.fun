@@ -68,6 +68,7 @@ comments: false
 56. (Wormhole Potion)
 57. (Meowmere)
 58. (Star Wrath)
+59. (Solar Tablet)
 
 
 На нашем сервере запрещается использовать следующие снаряды:
