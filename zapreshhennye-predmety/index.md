@@ -64,6 +64,8 @@ comments: false
 52. (Bottomless Water Bucket)
 53. (Super Absorbant Sponge)
 54. (Blood Water)
+55. (Stardust Dragon Staff)
+56. (Wormhole Potion)
 
 
 На нашем сервере запрещается использовать следующие снаряды:
