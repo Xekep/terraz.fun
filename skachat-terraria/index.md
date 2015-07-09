@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Скачать Terraria 1.3.0.3
-description: "На нашем сайте вы имеете возможность скачать полностью русифицированную версию игры Terraria 1.3.0.3. Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и, при необходимости, Вы можете установить их из папки с игрой."
-tags: [terraria, террария, 1.3.0.3, скачать, русификатор, клиент]
+title: Скачать Terraria 1.3.0.4
+description: "На нашем сайте вы имеете возможность скачать полностью русифицированную версию игры Terraria 1.3.0.4. Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и, при необходимости, Вы можете установить их из папки с игрой."
+tags: [terraria, террария, 1.3.0.4, скачать, русификатор, клиент]
 comments: false
 ---
 
@@ -12,13 +12,13 @@ comments: false
 	<a href="/images/posts/skachat-terraria/scr3_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
 </figure>
 
-На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.3.0.3** для ПК и **Terraria 1.2.6715** для Android.
+На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.3.0.4** для ПК и **Terraria 1.2.6715** для Android.
 
 Необходимые фреймворки **NET Framework 4** и **XNA Framework** уже включены в дистрибутив и при необходимости вы можете установить их из папки с игрой.
 
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/terraria-1.3-novaya-zhizn.html), оно доступно для скачивания на этой странице.
 
-<div markdown="0"><a href="http://files.terraria-z.ru/?file=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjM1OiJodHRwOi8vaS50ZXJyYXoucnUvVGVycmFyaWEgMS4zLmV4ZSI7czo5OiJmaWxlX25hbWUiO3M6MTY6IlRlcnJhcmlhIDEuMy5leGUiO3M6OToiZmlsZV90eXBlIjtzOjU6InNldHVwIjtzOjk6ImZpbGVfc2l6ZSI7czo4OiI4MDMzOTQ5NiI7czo2OiJyYW5kb20iO2k6MTE0NzQwNTM4Mjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.0.3</a>
+<div markdown="0"><a href="http://d63919731c4d5cd2d21899396c56dad1.jdfhjdfhjdf.ru/file?f=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjM3OiJodHRwOi8vaS50ZXJyYXoucnUvVGVycmFyaWElMjAxLjMuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoxNjoiVGVycmFyaWEgMS4zLmV4ZSI7czo5OiJmaWxlX3R5cGUiO3M6NToic2V0dXAiO3M6OToiZmlsZV9zaXplIjtzOjg6IjgwMzYzMjQ1IjtzOjY6InJhbmRvbSI7aTo4NjE0NjI5NDA7fQ%2C%2C" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.0.4</a>
 <a href="http://files.terraria-z.ru/?file=YTo2OntzOjc6InNpdGVfaWQiO3M6MzoiNjM4IjtzOjg6ImZpbGVfdXJsIjtzOjc5OiJodHRwOi8vaS50ZXJyYXoucnUv0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfbmFtZSI7czo2MDoi0KLQtdGA0YDQsNGA0LjRjyDQoNGD0YHQuNGE0LjQutCw0YLQvtGAINCn0LDRgtCwIDEuMi4zLjEuemlwIjtzOjk6ImZpbGVfdHlwZSI7czo3OiJhcmNoaXZlIjtzOjk6ImZpbGVfc2l6ZSI7czo2OiIxNTc3MjkiO3M6NjoicmFuZG9tIjtpOjgyMjk0NTU3Njt9" class="btn btn-success" rel="nofollow" target="_blank">Русификатор чата</a></div>
 
 ###Старые версии террарии
