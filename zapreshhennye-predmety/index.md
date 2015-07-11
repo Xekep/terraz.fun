@@ -45,7 +45,6 @@ comments: false
 33. Медальон Тыквенной луны (Pumpkin Moon medallion)
 34. Уплотнитель (Solidifier)
 35. Мыльная машина (Bubble Machine)
-36. Крылья разработчиков
 37. Воспаленные семена (Crimson Seeds)
 38. Ужасный порошок (Vile Powder)
 39. Очистительный порошок (Purification Powder)
