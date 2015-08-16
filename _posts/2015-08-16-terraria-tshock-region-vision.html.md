@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Плагин Region Vision"
+title: "Плагин Region Vision для tshock на нашем сервере"
 description: ""
 modified: 2015-08-16
 tags: [сервер]
