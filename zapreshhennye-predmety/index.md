@@ -40,7 +40,7 @@ comments: false
 28. Воспаленный песок (Crimsand)
 29. Синий раствор (Blue solution)
 30. Фиолетовый раствор (Purple solution)
-31. Темносиний раствор (Dark blue solution)
+31. Темно-синий раствор (Dark blue solution)
 32. Красный раствор (Red solution)
 33. Медальон Тыквенной луны (Pumpkin Moon medallion)
 34. Уплотнитель (Solidifier)
