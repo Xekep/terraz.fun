@@ -37,7 +37,7 @@ comments: false
 * /rules — Правила сервера.
 * /motd — MOTD (Сообщение дня).
 
-###Vip ##{#header2}
+###Vip
 
 *+ Доступ к Rod of Discort.*<br>
 *+ Резервный слот на сервере.*<br>
