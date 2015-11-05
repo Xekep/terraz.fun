@@ -76,3 +76,4 @@ comments: false
 1. Rocket II
 2. Rocket IV
 3. Платиновая монета (Platinum Coin)
+4. Coin Portal
