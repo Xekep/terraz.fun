@@ -4,30 +4,30 @@ layout: page
 comments: false
 ---
 
-##Client Features
+## Client Features
 
-####Server authetification
+#### Server authetification
 If you are using our Client, you don't have to enter /login, you can just press L.
 
-####Immortality
+#### Immortality
 Become immortal by pressing F4.
 
-####God mode
+#### God mode
 Move with the speed of light and pass through the walls by pressing V.
  
-####Unlimited mana and ammunitions
+#### Unlimited mana and ammunitions
 Press F5 to get infinite mana and ammunitions.
 
-####Ghost mode
+#### Ghost mode
 Press Left Alt to pass through a wall.
 
-####Player's list
+#### Player's list
 Press U to get the whole list of players on the server.
 
-####Teleport close to someone
+#### Teleport close to someone
 Hold Left Alt + scroll mouse to instant teleport.
 
-####Copy inventory
+#### Copy inventory
 To copy the inventory of another player:
 
 1. Place the mouse on the player.
@@ -35,13 +35,13 @@ To copy the inventory of another player:
 
 If you want to have your inventory back, place the mouse somewhere else (empty place) and press I.<br /> 
 
-####Spy on the player
+#### Spy on the player
 1. Place your mouse on him.
 2. Press J.
 
 To come back to your character, press J.
 
-####Copy buildings from the server into your world
+#### Copy buildings from the server into your world
 Our Client allows you to copy a rectangle area, and then paste it into your own world:
 
 1. Place your mouse in the corner of the area you want to copy.
@@ -53,57 +53,57 @@ Our Client allows you to copy a rectangle area, and then paste it into your own 
 7. Place your mouse in the upper left corner of the area you want to past to.
 8. Press CTRL+C.
 
-####List of items
+#### List of items
 Press CTRL+tab to open a window that will show you a list of every items.<br /> The list may contain many pages, scroll down your mouse to read it.
 
-####Shut down сlient features
+#### Shut down сlient features
 Press F3 to shut down сlient features.
 
-####Memorizing commands
+#### Memorizing commands
 The Client remembers the 15 last commands "/" you entered.<br /> To take a look at commands you entered before, open a chat and press PgUp or PgDown.
 
-####Hamdrax
+#### Hamdrax
 LeftCTRL + right mouse click.
 
-####Teleport to spawn point
+#### Teleport to spawn point
 Press Home to move your character on spawn point.
 
-####Teleport to last death point
+#### Teleport to last death point
 Press R to move at the place where you were dead.
 
-####Cheat-shoot
+#### Cheat-shoot
 Type /proj [projectile id] in chat to charge the ammunition.<br />Type /projs [speed] to increase the ammunition speed.<br />Type /projd [damage value] to modify the damage.<br /><br />
 Shot is done by pressing the scroll wheel of the mouse.<br /> <a href="http://terraria.gamepedia.com/Projectile_IDs" title="Projectile IDs" target="_blank"  rel="nofollow" >Projectile IDs</a>
 
-##Client features that require admin access
+## Client features that require admin access
 
-####Kill a player
+#### Kill a player
 1. Place the mouse on someone.
 2. Press F to kill him.
 
-####Heal someone
+#### Heal someone
 Press Y to heal yourself, or place the mouse on other player, and press Y to heal him.
 
-####Kick a player
+#### Kick a player
 Place the mouse on someone, and press X.
 
-####Ban a player
+#### Ban a player
 1. Place the mouse on the player.
 2. Press F1 to ban the nickname; or press F2 to ban the IP adress.
 
-####Information about the player
+#### Information about the player
 Place your mouse on a player and press U to get all info about the player.
 
-####Day/Night
+#### Day/Night
 Use + and — to change to passe from day to night.
 
-####Spawn bosses
+#### Spawn bosses
 Press NumLock_1 and a bosses will spawn.
 
-####Kill enemy mobs
+#### Kill enemy mobs
 Press NumLock_0 to butcher all the enemy mobs.
 
-####Working with regions
+#### Working with regions
 **Creating Region**
 
 1. Place the mouse in the first point of the region.
@@ -137,13 +137,13 @@ After selecting the area with Q, press F6 to add yourself there
 
 **That a player did not run away, place your mouse on him and press the mouse wheel in order to freeze for 5 seconds.*
 
-####Delete items within 50 blocks radius
+#### Delete items within 50 blocks radius
 Press LeftAlt+C.
 
-####Retrieve the history of a certain tile
+#### Retrieve the history of a certain tile
 Place your mouse on a tile, and press LeftAlt+ right click.
 
-####Edit the world
+#### Edit the world
 To use commands WorldEdit you need to activate NumLock, because most of commands are on Numpad.
 
 **Select an area to work**
