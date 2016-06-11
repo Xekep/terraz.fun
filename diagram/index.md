@@ -24,7 +24,7 @@ comments: false
 
         $.ajax({
                 type : "GET",
-                url : "http://sc.terraz.ru/regions.php?callback=?",
+                url : "https://i.terraria-z.ru/online/regions.php?callback=?",
                 dataType: "jsonp",
                 success: function(res) {
                         if (res.offline != 1)
