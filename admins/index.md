@@ -14,7 +14,7 @@ window.onload =  function() {
       type: "GET",
       cache: false,
       async: false,
-      url: "http://sc.terraz.ru/admins.php",
+      url: "https://i.terraria-z.ru/online/admins.php",
       success: function(data){
           if(data != ""){
               $('#adm_table').append(data);
