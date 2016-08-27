@@ -79,4 +79,5 @@ comments: false
 3. Платиновая монета (Platinum Coin)
 4. Coin Portal
 5. Надгробные плиты
-6. Лазер буросодержащего модуля  (Drill Crosshair)
+6. Лазер буросодержащего модуля (Drill Crosshair)
+7. Пчелиный улей (Beehive)
