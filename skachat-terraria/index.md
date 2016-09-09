@@ -18,7 +18,7 @@ comments: false
 
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/terraria-1.3-novaya-zhizn.html), оно доступно для скачивания на этой странице.
 
-<div markdown="0"><a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czozOToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjMuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoxODoiVGVycmFyaWEgMS4zLjMuZXhlIjtzOjQ6InNpemUiO2k6ODE1NTQzMzc7czo0OiJ0eXBlIjtzOjU6InNldHVwIjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.2.1</a>
+<div markdown="0"><a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czozOToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjMuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoxODoiVGVycmFyaWEgMS4zLjMuZXhlIjtzOjQ6InNpemUiO2k6ODE1NTQzMzc7czo0OiJ0eXBlIjtzOjU6InNldHVwIjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.3</a>
 <a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo3OToiaHR0cDovL2kudGVycmF6LnJ1L9Ci0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo5OiJmaWxlX25hbWUiO3M6NjA6ItCi0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo0OiJzaXplIjtpOjE1NzcyOTtzOjQ6InR5cGUiO3M6NzoiYXJjaGl2ZSI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Русификатор чата</a></div>
 
 
