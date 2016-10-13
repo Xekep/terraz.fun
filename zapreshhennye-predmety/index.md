@@ -81,3 +81,4 @@ comments: false
 5. Надгробные плиты
 6. Лазер буросодержащего модуля (Drill Crosshair)
 7. Пчелиный улей (Beehive)
+8. Ледяной блок (Ice Block)
