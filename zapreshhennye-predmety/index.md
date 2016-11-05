@@ -82,3 +82,6 @@ comments: false
 6. Лазер буросодержащего модуля (Drill Crosshair)
 7. Пчелиный улей (Beehive)
 8. Ледяной блок (Ice Block)
+9. Динамит (Dynamite)
+10. Бомба (Bomb)
+11. Бомба-липучка (Sticky bomb)
