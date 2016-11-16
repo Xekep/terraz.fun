@@ -18,13 +18,14 @@ comments: false
 
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/terraria-1.3-novaya-zhizn.html), оно доступно для скачивания на этой странице.
 
-<div markdown="0"><a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czozOToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjQuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoxODoiVGVycmFyaWEgMS4zLjQuZXhlIjtzOjQ6InNpemUiO2k6MTUzNjgwNzQwO3M6NDoidHlwZSI7czo1OiJzZXR1cCI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.4</a>
+<div markdown="0"><a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0MToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjQuMS5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjIwOiJUZXJyYXJpYSAxLjMuNC4xLmV4ZSI7czo0OiJzaXplIjtpOjE1MzY4MzY2ODtzOjQ6InR5cGUiO3M6NToic2V0dXAiO30=" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.4.1</a>
 <a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo3OToiaHR0cDovL2kudGVycmF6LnJ1L9Ci0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo5OiJmaWxlX25hbWUiO3M6NjA6ItCi0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo0OiJzaXplIjtpOjE1NzcyOTtzOjQ6InR5cGUiO3M6NzoiYXJjaGl2ZSI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Русификатор чата</a></div>
 
 
 ### Старые версии террарии
 
-<div markdown="0"><a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0MToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjMuMy5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjIwOiJUZXJyYXJpYSAxLjMuMy4zLmV4ZSI7czo0OiJzaXplIjtpOjgxMzk4MjY5O3M6NDoidHlwZSI7czo1OiJzZXR1cCI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.3.3</a>
+<div markdown="0"><a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czozOToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjQuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoxODoiVGVycmFyaWEgMS4zLjQuZXhlIjtzOjQ6InNpemUiO2k6MTUzNjgwNzQwO3M6NDoidHlwZSI7czo1OiJzZXR1cCI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.4</a>
+<a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0MToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjMuMy5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjIwOiJUZXJyYXJpYSAxLjMuMy4zLmV4ZSI7czo0OiJzaXplIjtpOjgxMzk4MjY5O3M6NDoidHlwZSI7czo1OiJzZXR1cCI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.3.3</a>
 <a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NzoiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjMuMyUyMFJVUy5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjI0OiJUZXJyYXJpYSAxLjMuMy4zIFJVUy5leGUiO3M6NDoic2l6ZSI7aTo4MTIyNDU5NTtzOjQ6InR5cGUiO3M6NToic2V0dXAiO30=" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.3.3 RUS</a></div>
 
 <div markdown="0"><a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0MToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjMuMi5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjIwOiJUZXJyYXJpYSAxLjMuMy4yLmV4ZSI7czo0OiJzaXplIjtpOjgxNTU2ODY2O3M6NDoidHlwZSI7czo1OiJzZXR1cCI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.3.2</a>
