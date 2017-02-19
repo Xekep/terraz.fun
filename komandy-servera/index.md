@@ -174,6 +174,19 @@ comments: false
 * /forcehalloween — Включение режима хэллоуин.
 * /confuse /rocket — Не работают.
 
+**RegionTrigger**
+/rt set-<property> <region> [--del] <value> -- Sets regions
+Available properties:
+Event: event(e)
+Bans: projban(pb), itemban(ib), tileban(tb)
+Messages: entermsg(em), leavemsg(lm), messageinterval(msgitv/mi)
+Group: tempgroup(tg)
+e.g. /rt set-event main-region nopvp
+/rt set-tempgroup main-region vip​
+/rt show <region> -- Gets information about a specific region
+/rt reload -- Reloads data in database
+/rt --help [page] -- Gets helps
+
 ### Fan
 
 * /item /i [название предмета или ID] — Выдача предмета себе.
