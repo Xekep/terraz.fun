@@ -20,6 +20,7 @@ comments: false
 
 <div markdown="0">
 <a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0MToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjQuNC5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjIwOiJUZXJyYXJpYSAxLjMuNC40LmV4ZSI7czo0OiJzaXplIjtpOjE1MzY4OTMyOTtzOjQ6InR5cGUiO3M6NToic2V0dXAiO30=" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.4.4</a>
+<a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NzoiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjQuNCUyMFJVUy5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjI0OiJUZXJyYXJpYSAxLjMuNC40IFJVUy5leGUiO3M6NDoic2l6ZSI7aToxNTM2MjQ4OTk7czo0OiJ0eXBlIjtzOjU6InNldHVwIjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.4.4 RUS</a>
 <a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo3OToiaHR0cDovL2kudGVycmF6LnJ1L9Ci0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo5OiJmaWxlX25hbWUiO3M6NjA6ItCi0LXRgNGA0LDRgNC40Y8g0KDRg9GB0LjRhNC40LrQsNGC0L7RgCDQp9Cw0YLQsCAxLjIuMy4xLnppcCI7czo0OiJzaXplIjtpOjE1NzcyOTtzOjQ6InR5cGUiO3M6NzoiYXJjaGl2ZSI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Русификатор чата</a></div>
 
 
