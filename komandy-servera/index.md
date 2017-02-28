@@ -175,17 +175,19 @@ comments: false
 * /confuse /rocket — Не работают.
 
 **RegionTrigger**
-/rt set-<property> <region> [--del] <value> -- Sets regions
-Available properties:
-Event: event(e)
-Bans: projban(pb), itemban(ib), tileban(tb)
-Messages: entermsg(em), leavemsg(lm), messageinterval(msgitv/mi)
-Group: tempgroup(tg)
+* /rt set-<property> <region> [--del] <value> -- Sets regions
+* /rt set-tempgroup main-region vip​
+* * /rt show <region> -- Gets information about a specific region
+* /rt reload -- Reloads data in database
+* /rt --help [page] -- Gets helps
+
+Available properties:<br>
+Event: event(e)<br>
+Bans: projban(pb), itemban(ib), tileban(tb)<br>
+Messages: entermsg(em), leavemsg(lm), messageinterval(msgitv/mi)<br>
+Group: tempgroup(tg)<br>
 e.g. /rt set-event main-region nopvp
-/rt set-tempgroup main-region vip​
-/rt show <region> -- Gets information about a specific region
-/rt reload -- Reloads data in database
-/rt --help [page] -- Gets helps
+
 
 ### Fan
 
