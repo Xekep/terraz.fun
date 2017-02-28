@@ -152,7 +152,7 @@ comments: false
 * //schematic load [имя] — Загрузка схемы в буфер обмена.
 * //schematic save [имя] — Сохранение содержимого буфера в указанную схему.
 * //mow — Удаление колючек, лиан, травы.
-* //inactive <on/off/reverse> — Активация и деактивация блоков.
+* //inactive <on,off,reverse> — Активация и деактивация блоков.
 * //fixgrass — Fixes suffocated grass in the selection. 
 * //fixhalves — Замена полублоков на обычные.
 * //fixslopes — Замена наклонных блоков на обычные.
