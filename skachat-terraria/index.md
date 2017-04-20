@@ -19,7 +19,7 @@ comments: false
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/terraria-1.3-novaya-zhizn.html), оно доступно для скачивания на этой странице.
 
 <div markdown="0">
-<a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NjoiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjUuJTIwUlVTLmV4ZSI7czo5OiJmaWxlX25hbWUiO3M6MjM6IlRlcnJhcmlhIDEuMy41LiBSVVMuZXhlIjtzOjQ6InNpemUiO2k6MTc1OTk5MTgxO3M6NDoidHlwZSI7czo1OiJzZXR1cCI7fQ==" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.5 RUS</a></div>
+<a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjUlMjBSVVMuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoyMjoiVGVycmFyaWEgMS4zLjUgUlVTLmV4ZSI7czo0OiJzaXplIjtpOjE3NTk5OTE4MTtzOjQ6InR5cGUiO3M6NToic2V0dXAiO30=" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.5 RUS</a></div>
 
 
 ### Старые версии террарии
