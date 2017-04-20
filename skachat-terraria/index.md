@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Скачать Terraria 1.3.5
-description: "На нашем сайте вы имеете возможность скачать Terraria 1.3.5, полностью русифицированную версию игры. Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и, при необходимости, Вы можете установить их из папки с игрой."
-tags: [terraria, террария, 1.3.5, скачать terraria, русификатор, клиент]
+title: Скачать Terraria 1.3.5.1
+description: "На нашем сайте вы имеете возможность скачать Terraria 1.3.5.1, полностью русифицированную версию игры. Необходимые фреймворки NET Framework 4 и XNA Framework уже включены в дистрибутив и, при необходимости, Вы можете установить их из папки с игрой."
+tags: [terraria, террария, 1.3.5.1, скачать terraria, русификатор, клиент]
 comments: false
 ---
 
@@ -12,14 +12,16 @@ comments: false
 	<a href="/images/posts/skachat-terraria/scr3_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
 </figure>
 
-На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.3.5** для ПК и * **Скачать Terraria** 1.2.6715 для Android.
+На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.3.5.1** для ПК и * **Скачать Terraria** 1.2.6715 для Android.
 
 Необходимые фреймворки **NET Framework 4** и **XNA Framework** уже включены в дистрибутив Terraria и при необходимости вы можете установить их из папки с игрой.
 
 После выхода [обновления Terraria 1.3](http://fun.terraz.ru/terraria-1.3-novaya-zhizn.html), оно доступно для скачивания на этой странице.
 
 <div markdown="0">
-<a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjUlMjBSVVMuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoyMjoiVGVycmFyaWEgMS4zLjUgUlVTLmV4ZSI7czo0OiJzaXplIjtpOjE3NTk5OTE4MTtzOjQ6InR5cGUiO3M6NToic2V0dXAiO30=" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.5 RUS</a></div>
+<a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NzoiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjUuMSUyMFJVUy5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjI0OiJUZXJyYXJpYSAxLjMuNS4xIFJVUy5leGUiO3M6NDoic2l6ZSI7aToxNzYwMjMxMTU7czo0OiJ0eXBlIjtzOjU6InNldHVwIjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.5.1 RUS</a>
+<a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NToiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjUlMjBSVVMuZXhlIjtzOjk6ImZpbGVfbmFtZSI7czoyMjoiVGVycmFyaWEgMS4zLjUgUlVTLmV4ZSI7czo0OiJzaXplIjtpOjE3NTk5OTE4MTtzOjQ6InR5cGUiO3M6NToic2V0dXAiO30=" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.5 RUS</a>
+</div>
 
 
 ### Старые версии террарии
