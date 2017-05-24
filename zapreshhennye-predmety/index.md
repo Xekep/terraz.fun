@@ -67,8 +67,7 @@ comments: false
 55. Логические вентили (Logic Gate)
 56. Жезл улья (Hive Wand)
 57. Рамка (Item Frame)
-58. Последняя призма (Last Prism)
-59. Порочная пыль (Vicious Powder)
+58. Порочная пыль (Vicious Powder)
 
 На нашем сервере запрещается использовать следующие снаряды:
 
