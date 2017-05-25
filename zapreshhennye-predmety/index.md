@@ -52,7 +52,7 @@ comments: false
 1. Rocket II
 2. Rocket IV
 3. Платиновая монета (Platinum Coin)
-4. Coin Portal
+4. Монетный портал (Coin Portal)
 5. Надгробные плиты (Tombstone)
 6. Лазер буросодержащего модуля (Drill Crosshair)
 7. Пчелиный улей (Dislodgeable Beehive)
@@ -81,9 +81,9 @@ comments: false
 30. Прыгучая бомба (Bouncy Bomb) 
 31. Рыба-бомба (Bomb Fish) 
 32. Порочная пыль (Vicious Powder) 
+33. Последняя призма (Last Prism)
 
 Следующие снаряды не работают на нашем сервере:
 
 1. Meowmere
 2. Star Wrath
-3. Last Prism
