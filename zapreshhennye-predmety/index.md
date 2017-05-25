@@ -67,15 +67,15 @@ comments: false
 15. Дымовая шашка (Smoke bomb) 
 16. Мина (Land mine) 
 17. Шар воспаленного песка (Crimsand Ball) 
-18. Синий раствор (Blue solution) ???
-19. Фиолетовый раствор (Purple solution)  ???
-20. Темно-синий раствор (Dark blue solution) ???
-21. Красный раствор (Red solution) ???
+18. Святой спрей (Hallow Spray) 
+19. Спрей искажения (Corrupt Spray)  
+20. Грибной спрей (Mushroom Spray) 
+21. Кровавый спрей (Crimson Spray) 
 22. Ужасный порошок (Vile Powder) 
 23. Очистительный порошок (Purification Powder) 
 24. Нечестивая вода (Unholy Water) 
 25. Святая вода (Holy Water) 
-26. Кримсоновая вода (Blood Water) ???
+26. Кримсоновая вода (Blood Water)
 27. Липкий динамит (Sticky Dynamite) 
 28. Прыгучий динамит (Bouncy Dynamite) 
 29. Прыгучая бомба (Bouncy Bomb) 
