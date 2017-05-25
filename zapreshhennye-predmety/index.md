@@ -41,11 +41,10 @@ comments: false
 18. Слякоть (Slush Block) 
 19. Эбонитовый песок (Ebonsand Block) 
 20. Жемчужный песок (Pearlsand Block) 
-21. Рамка (Item Frame) 
-22. Зачарованные солнечные часы (Enchanted Sundial) 
-23. Сигнализирующая коробка (Announcement Box) 
-24. Держатель портальной пушки (Portal Gun Station) 
-25. Логические вентили (Logic Gate)
+21. Зачарованные солнечные часы (Enchanted Sundial) 
+22. Сигнализирующая коробка (Announcement Box) 
+23. Держатель портальной пушки (Portal Gun Station) 
+24. Логические вентили (Logic Gate)
 
 Запрещается использовать следующие снаряды:
 
