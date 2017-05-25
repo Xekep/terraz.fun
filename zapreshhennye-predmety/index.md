@@ -14,11 +14,10 @@ comments: false
 6. Воспаленные семена (Crimson Seeds) 
 7. Бездонное ведро воды (Bottomless Water Bucket) 
 8. Портальная пушка (Portal Gun) 
-9. Очиститель (Clentaminator) 
-10. Суперабсорбирующая губка (Super Absorbant Sponge) 
-11. Солнечная плита (Solar Tablet) 
-12. Сумка с сокровищами (Treasure Bag) 
-13. Жезл улья (Hive Wand) 
+9. Суперабсорбирующая губка (Super Absorbant Sponge) 
+10. Солнечная плита (Solar Tablet) 
+11. Сумка с сокровищами (Treasure Bag) 
+12. Жезл улья (Hive Wand) 
 
 Запрещается использовать следующие блоки:
 
@@ -71,16 +70,17 @@ comments: false
 19. Спрей искажения (Corrupt Spray)  
 20. Грибной спрей (Mushroom Spray) 
 21. Кровавый спрей (Crimson Spray) 
-22. Ужасный порошок (Vile Powder) 
-23. Очистительный порошок (Purification Powder) 
-24. Нечестивая вода (Unholy Water) 
-25. Святая вода (Holy Water) 
-26. Кримсоновая вода (Blood Water)
-27. Липкий динамит (Sticky Dynamite) 
-28. Прыгучий динамит (Bouncy Dynamite) 
-29. Прыгучая бомба (Bouncy Bomb) 
-30. Рыба-бомба (Bomb Fish) 
-31. Порочная пыль (Vicious Powder) 
+22. Чистый спрей (Pure Spray)
+23. Ужасный порошок (Vile Powder) 
+24. Очистительный порошок (Purification Powder) 
+25. Нечестивая вода (Unholy Water) 
+26. Святая вода (Holy Water) 
+27. Кримсоновая вода (Blood Water)
+28. Липкий динамит (Sticky Dynamite) 
+29. Прыгучий динамит (Bouncy Dynamite) 
+30. Прыгучая бомба (Bouncy Bomb) 
+31. Рыба-бомба (Bomb Fish) 
+32. Порочная пыль (Vicious Powder) 
 
 Следующие снаряды не работают на нашем сервере:
 
