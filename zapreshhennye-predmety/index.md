@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Запрещенные предметы
-#image:
-  #feature: abstract-5.jpg
-  #credit: dargadgetz
-  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
 ---
 
@@ -85,3 +81,9 @@ comments: false
 29. Прыгучая бомба (Bouncy Bomb) 
 30. Рыба-бомба (Bomb Fish) 
 31. Порочная пыль (Vicious Powder) 
+
+Следующие снаряды не работают на нашем сервере:
+
+1. Meowmere
+2. Star Wrath
+3. Last Prism
