@@ -13,11 +13,10 @@ comments: false
 5. Медальон Тыквенной луны (Pumpkin Moon medallion) 
 6. Воспаленные семена (Crimson Seeds) 
 7. Бездонное ведро воды (Bottomless Water Bucket) 
-8. Портальная пушка (Portal Gun) 
-9. Суперабсорбирующая губка (Super Absorbant Sponge) 
-10. Солнечная плита (Solar Tablet) 
-11. Сумка с сокровищами (Treasure Bag) 
-12. Жезл улья (Hive Wand) 
+8. Суперабсорбирующая губка (Super Absorbant Sponge) 
+9. Солнечная плита (Solar Tablet) 
+10. Сумка с сокровищами (Treasure Bag) 
+11. Жезл улья (Hive Wand) 
 
 Запрещается использовать следующие блоки:
 
@@ -86,3 +85,4 @@ comments: false
 
 1. Meowmere
 2. Star Wrath
+3. Portal Gate
