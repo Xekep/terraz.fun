@@ -21,6 +21,7 @@ function renderTable(data)
 {
 	$("#vip").append(array2table(data.vip));
 	$("#help").append(array2table(data.help));
+	$("#builder").append(array2table(data.builder));
 	$("#newadmin").append(array2table(data.newadmin));
 	$("#admin").append(array2table(data.admin));
 	$("#trustedadmin").append(array2table(data.trustedadmin));
@@ -43,12 +44,63 @@ function array2table(data)
 **Супер администратор:** Ketrin
 </div>
 <div align="center">
-<table id="vip"><caption><b>VIP</b></caption></table>
-<table id="help"><caption><b>Helper</b></caption></table>
-<table id="newadmin"><caption><b>Admin</b></caption></table>
-<table id="admin"><caption><b>St.Admin</b></caption></table>
-<table id="trustedadmin"><caption><b>Gl.Admin</b></caption></table>
-<table id="vipadmin"><caption><b>Vip-Admin</b></caption></table>
-<table id="vipstadmin"><caption><b>Vip-St.Admin</b></caption></table>
-<table id="vipgladmin"><caption><b>Vip-Gl.Admin</b></caption></table>
+<table>
+  <tr style="vertical-align: top;">
+    <td>
+        <table id="VIP">
+          <caption><b>VIP</b></caption>
+        </table>
+    </td>
+    <td>
+        <table id="help">
+          <caption><b>Helper</b></caption>
+        </table>
+    </td>
+    <td>
+        <table id="builder">
+          <caption><b>Builder</b></caption>
+        </table>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr style="vertical-align: top;">
+    <td>
+        <table id="newadmin">
+          <caption><b>Admin</b></caption>
+        </table>
+    </td>
+    <td>
+        <table id="admin">
+          <caption><b>Gl.Admin</b></caption>
+        </table>
+    </td>
+    <td>
+        <table id="trustedadmin">
+          <caption><b>Gl.Admin</b></caption>
+        </table>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr style="vertical-align: top;">
+    <td>
+        <table id="vipadmin">
+          <caption><b>VipAdmin</b></caption>
+        </table>
+    </td>
+    <td>
+        <table id="vipstadmin">
+          <caption><b>VipSt.Admin</b></caption>
+        </table>
+    </td>
+    <td>
+        <table id="vipgladmin">
+          <caption><b>VipGl.Admin</b></caption>
+        </table>
+    </td>
+  </tr>
+</table>
 </div>
