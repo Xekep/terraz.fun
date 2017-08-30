@@ -73,7 +73,7 @@ function array2table(data)
     </td>
     <td>
         <table id="admin">
-          <caption><b>Gl.Admin</b></caption>
+          <caption><b>St.Admin</b></caption>
         </table>
     </td>
     <td>
