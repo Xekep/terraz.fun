@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Диаграмма протектов
-#image:
-  #feature: abstract-5.jpg
-  #credit: dargadgetz
-  #creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
 ---
 
@@ -24,7 +20,7 @@ comments: false
 
         $.ajax({
                 type : "GET",
-                url : "https://i.terraria-z.ru/online/regions.php?callback=?",
+                url : "https://service.terraria-z.ru/regions.php?callback=?",
                 dataType: "jsonp",
                 success: function(res) {
                         if (res.offline != 1)
