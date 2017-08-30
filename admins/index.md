@@ -32,11 +32,8 @@ function renderTable(data)
 function array2table(data)
 {
    var tbl_body = "";
-    $.each(data, function() {
-        var tbl_row = "";
-        $.each(this, function(k , v) {
-            tbl_row += "<td>"+v+"</td>";
-        })
+    $.each(data, function(k, v) {
+		var tbl_row = "<td>"+v+"</td>";
         tbl_body += "<tr>"+tbl_row+"</tr>";                 
     });
     return tbl_body;
@@ -46,12 +43,12 @@ function array2table(data)
 **Супер администратор:** Ketrin
 </div>
 <div align="center">
-<table id="vip"><caption>VIP</caption></table>
-<table id="help"><caption>Helper</caption></table>
-<table id="newadmin"><caption>Admin</caption></table>
-<table id="admin"><caption>St.Admin</caption></table>
-<table id="trustedadmin"><caption>Gl.Admin</caption></table>
-<table id="vipadmin"><caption>Vip-Admin</caption></table>
-<table id="vipstadmin"><caption>Vip-St.Admin</caption></table>
-<table id="vipgladmin"><caption>Vip-Gl.Admin</caption></table>
+<table id="vip"><caption><b>VIP</b></caption></table>
+<table id="help"><caption><b>Helper</b></caption></table>
+<table id="newadmin"><caption><b>Admin</b></caption></table>
+<table id="admin"><caption><b>St.Admin</b></caption></table>
+<table id="trustedadmin"><caption><b>Gl.Admin</b></caption></table>
+<table id="vipadmin"><caption><b>Vip-Admin</b></caption></table>
+<table id="vipstadmin"><caption><b>Vip-St.Admin</b></caption></table>
+<table id="vipgladmin"><caption><b>Vip-Gl.Admin</b></caption></table>
 </div>
