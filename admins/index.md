@@ -47,7 +47,7 @@ function array2table(data)
 <table>
   <tr style="vertical-align: top;">
     <td>
-        <table id="VIP">
+        <table id="vip">
           <caption><b>VIP</b></caption>
         </table>
     </td>
