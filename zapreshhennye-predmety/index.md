@@ -16,7 +16,8 @@ comments: false
 8. Суперабсорбирующая губка (Super Absorbant Sponge) 
 9. Солнечная плита (Solar Tablet) 
 10. Сумка с сокровищами (Treasure Bag) 
-11. Жезл улья (Hive Wand) 
+11. Жезл улья (Hive Wand)
+12. Крылья легкости Arkhalis (Arkhalis's Lightwings)
 
 Запрещается использовать следующие блоки:
 
