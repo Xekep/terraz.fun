@@ -26,20 +26,6 @@ function initOnline()
 }
 initOnline();
 </script>
-<script type="text/javascript">
-    var chatovodOnLoad = chatovodOnLoad || [];
-    chatovodOnLoad.push(function() {
-        chatovod.addChatButton({host: "terraria-world.chatovod.com", align: "bottomRight",
-            width: 600, height: 380, defaultLanguage: "ru"});
-    });
-    (function() {
-        var po = document.createElement('script');
-        po.type = 'text/javascript'; po.charset = "UTF-8"; po.async = true;
-        po.src = (document.location.protocol=='https:'?'https:':'http:') + '//st1.chatovod.com/api/js/v1.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(po, s);
-    })();
-</script>
 
 {% if site.google_analytics %}
 <!-- Asynchronous Google Analytics snippet -->
