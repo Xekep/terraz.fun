@@ -43,7 +43,7 @@ comments: false
 * /regionviewnear или /rvn – Автоматический показ границ регионов рядом с вами.
 
 
-### Vip/Voter
+### Vip
 
 *+ Доступ к Rod of Discort.*<br>
 *+ Резервный слот на сервере.*<br>
