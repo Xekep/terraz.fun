@@ -18,6 +18,8 @@ comments: false
 10. Сумка с сокровищами (Treasure Bag) 
 11. Жезл улья (Hive Wand)
 12. Крылья легкости Arkhalis (Arkhalis's Lightwings)
+13. Статуя короля (King Statue)
+14. Статуя королевы (Queen Statue)
 
 Запрещается использовать следующие блоки:
 
