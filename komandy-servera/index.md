@@ -250,5 +250,5 @@ e.g. /rt set-event main-region nopvp
 
 ### St.Builder
 
-*+ Команды WorldEdit.*
+*+ Команды WorldEdit.*  
 *+ Доступ к администрированию регионов.*
