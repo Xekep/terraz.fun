@@ -11,12 +11,13 @@ comments: false
 	<a href="/images/posts/skachat-terraria/scr2_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr2_600x337.jpg" alt=""></a>
 	<a href="/images/posts/skachat-terraria/scr3_1280x720.jpg"><img src="/images/posts/skachat-terraria/scr3_600x337.jpg" alt=""></a>
 </figure>
-
 На нашем сайте вы имеете возможность **скачать** полностью русифицированную версию игры **Terraria 1.3.5.2** для ПК и * **Скачать Terraria** 1.2.6715 для Android.
 
 Необходимые фреймворки **NET Framework 4** и **XNA Framework** уже включены в дистрибутив Terraria и при необходимости вы можете установить их из папки с игрой.
 
 После выхода [обновления Terraria 1.3](https://fun.terraz.ru/terraria-1.3-novaya-zhizn.html), оно доступно для скачивания на этой странице.
+
+#### Пароль на архив: 123
 
 <div markdown="0">
 <a href="http://files.terraria-z.ru/?f=YTo0OntzOjM6InVybCI7czo0NzoiaHR0cDovL2kudGVycmF6LnJ1L1RlcnJhcmlhJTIwMS4zLjUuMyUyMFJVUy5leGUiO3M6OToiZmlsZV9uYW1lIjtzOjI0OiJUZXJyYXJpYSAxLjMuNS4zIFJVUy5leGUiO3M6NDoic2l6ZSI7aToxODA4MDMwODI7czo0OiJ0eXBlIjtzOjU6InNldHVwIjt9" class="btn btn-success" rel="nofollow" target="_blank">Terraria 1.3.5.3 RUS</a>
