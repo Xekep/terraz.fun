@@ -1,5 +1,5 @@
 - title: Статистика сервера
-  url: /statistics
+  url: https://statistics.terraz.ru
 
 - title: Правила сервера
   url: /rules
@@ -12,12 +12,6 @@
 
 - title: Запрещенные предметы
   url: /zapreshhennye-predmety
-
-- title: Администраторы
-  url: /admins
-
-- title: Диаграмма протектов
-  url: /diagram
 
 - title: Команды сервера
   url: /komandy-servera
