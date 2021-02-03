@@ -8,7 +8,7 @@ function initOnline()
     $.ajax({
         type : "GET",
         url : "https://service.terraria-z.ru/online.php?callback=?",
-        dataType: "jsonp",
+        dataType: "json",
         success: function(data) {
                     if (data.offline==1)
                     {
